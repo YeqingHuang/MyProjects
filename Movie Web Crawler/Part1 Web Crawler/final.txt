@@ -1,0 +1,402 @@
+Léon: The Professional,这个杀手不太冷,1994,32,8.5,1004508,4,9.4,1779927,110 min,Action|Crime|Drama|Thriller,France|USA,English|Italian|French,https://movie.douban.com/subject/1295644/,https://www.imdb.com/title/tt0110413,B
+Chungking Express,重庆森林,1994,,8.1,59687,105,8.7,585891,102 min,Comedy|Crime|Drama|Mystery|Romance,Hong Kong,Cantonese|English|Japanese|Hindi|Mandarin|Punjabi|Urdu,https://movie.douban.com/subject/1291999/,https://www.imdb.com/title/tt0109424,D
+Nausicaä of the Valley of the Wind,风之谷,1984,229,8.0,144181,143,8.9,286292,117 min,Animation|Adventure|Fantasy|Sci-Fi,Japan|USA,Japanese,https://movie.douban.com/subject/1291585/,https://www.imdb.com/title/tt0087544,B
+Das Boot,从海底出击,1981,80,8.3,225709,,9.0,27317,149 min,Adventure|Drama|Thriller|War,West Germany,German,https://movie.douban.com/subject/1293909/,https://www.imdb.com/title/tt0082096,I
+Titanic,泰坦尼克号,1997,,7.8,1021016,5,9.4,1545457,194 min,Drama|Romance,USA|Mexico|Australia|Canada,English|Swedish|Italian|French,https://movie.douban.com/subject/1292722/,https://www.imdb.com/title/tt0120338,D
+Aliens,异形2,1986,74,8.3,637855,,8.0,107594,137 min,Action|Adventure|Sci-Fi|Thriller,USA|UK,English,https://movie.douban.com/subject/1293792/,https://www.imdb.com/title/tt0090605,I
+Good Will Hunting,心灵捕手,1997,88,8.3,834556,84,8.9,515933,126 min,Drama|Romance,USA,English,https://movie.douban.com/subject/1292656/,https://www.imdb.com/title/tt0119217,B
+Black Hawk Down,黑鹰坠落,2001,,7.7,357428,246,8.7,215835,144 min,Drama|History|War,USA|UK,English|Somali|Arabic,https://movie.douban.com/subject/1291824/,https://www.imdb.com/title/tt0265086,D
+Incendies,焦土之城,2010,116,8.2,141640,,8.6,30841,131 min,Drama|Mystery|War,Canada|France,French|Arabic|English,https://movie.douban.com/subject/4935242/,https://www.imdb.com/title/tt1255953,I
+Princess Mononoke,幽灵公主,1997,66,8.4,329292,101,8.9,402910,134 min,Animation|Adventure|Fantasy,Japan,Japanese,https://movie.douban.com/subject/1297359/,https://www.imdb.com/title/tt0119698,B
+Perfect Blue,未麻的部屋,1997,,8.0,53587,181,8.9,194521,81 min,Animation|Crime|Mystery|Thriller,Japan,Japanese,https://movie.douban.com/subject/1395091/,https://www.imdb.com/title/tt0156887,D
+Rashômon,罗生门,1950,128,8.2,147605,202,8.8,225234,88 min,Crime|Drama|Mystery,Japan,Japanese,https://movie.douban.com/subject/1291879/,https://www.imdb.com/title/tt0042876,B
+Avatar,阿凡达,2009,,7.8,1099243,88,8.7,976425,162 min,Action|Adventure|Fantasy|Sci-Fi,USA,English|Spanish,https://movie.douban.com/subject/1652587/,https://www.imdb.com/title/tt0499549,D
+The Green Mile,绿里奇迹,1999,29,8.5,1108615,197,8.8,207782,189 min,Crime|Drama|Fantasy|Mystery,USA,English|French,https://movie.douban.com/subject/1300374/,https://www.imdb.com/title/tt0120689,B
+The Matrix Reloaded,黑客帝国2：重装上阵,2003,,7.2,504916,249,8.6,266545,138 min,Action|Sci-Fi,USA,English|French,https://movie.douban.com/subject/1304141/,https://www.imdb.com/title/tt0234215,D
+Back to the Future,回到未来,1985,36,8.5,1023593,,8.7,141157,116 min,Adventure|Comedy|Sci-Fi,USA,English,https://movie.douban.com/subject/1300555/,https://www.imdb.com/title/tt0088763,I
+Andhadhun,调音师,2018,184,8.1,64760,,8.3,695658,139 min,Crime|Thriller,India,Hindi|English,https://movie.douban.com/subject/30334073/,https://www.imdb.com/title/tt8108198,I
+Inside Out,头脑特工队,2015,160,8.1,590418,179,8.7,429658,95 min,Animation|Adventure|Comedy|Drama|Family|Fantasy,USA,English,https://movie.douban.com/subject/10533913/,https://www.imdb.com/title/tt2096673,B
+Memories of Murder,杀人回忆,2003,181,8.1,127007,97,8.8,483666,131 min,Action|Crime|Drama|Mystery|Thriller,South Korea,Korean|English,https://movie.douban.com/subject/1300299/,https://www.imdb.com/title/tt0353969,B
+The Departed,无间道风云,2006,44,8.5,1156301,,7.3,106890,151 min,Crime|Drama|Thriller,USA,English|Cantonese,https://movie.douban.com/subject/1315316/,https://www.imdb.com/title/tt0407887,I
+The Godfather: Part III,教父3,1990,,7.6,349388,142,8.9,254577,162 min,Crime|Drama,USA,English|Italian|German|Latin,https://movie.douban.com/subject/1294240/,https://www.imdb.com/title/tt0099674,D
+Stalker,潜行者,1979,174,8.1,111340,,8.8,15387,162 min,Drama|Sci-Fi,Soviet Union,Russian,https://movie.douban.com/subject/1295656/,https://www.imdb.com/title/tt0079944,I
+Twenty Two,二十二,2015,,7.4,372,189,8.7,219453,112 min,Documentary|Crime|History|War,China,Mandarin|Chinese,https://movie.douban.com/subject/26430107/,https://www.imdb.com/title/tt3843282,D
+The Hunt,狩猎,2012,97,8.3,268316,99,9.1,262971,115 min,Drama,Denmark|Sweden,Danish|English|Polish,https://movie.douban.com/subject/6985810/,https://www.imdb.com/title/tt2106476,B
+Life of Pi,少年派的奇幻漂流,2012,,7.9,569016,36,9.1,1053048,127 min,Adventure|Drama|Fantasy,USA|Taiwan|UK|Canada,Arabic|English|Tamil|French|Japanese|Hindi|Chinese,https://movie.douban.com/subject/1929463/,https://www.imdb.com/title/tt0454876,D
+My Neighbor Totoro,龙猫,1988,146,8.1,276648,21,9.2,941997,86 min,Animation|Family|Fantasy,Japan,Japanese,https://movie.douban.com/subject/1291560/,https://www.imdb.com/title/tt0096283,B
+Shoplifters,小偷家族,2018,,8.0,55947,198,8.7,604049,121 min,Crime|Drama,Japan,Japanese,https://movie.douban.com/subject/27622447/,https://www.imdb.com/title/tt8075192,D
+Mountain Patrol,可可西里,2004,,7.6,4594,207,8.8,215415,,Action|Drama,China|Hong Kong,Mandarin|Tibetan,https://movie.douban.com/subject/1308857/,https://www.imdb.com/title/tt0386651,D
+The Handmaiden,小姐,2016,222,8.0,103521,,8.2,239126,145 min,Drama|Romance|Thriller,South Korea,Korean|Japanese,https://movie.douban.com/subject/25977027/,https://www.imdb.com/title/tt4016934,I
+Snatch,偷拐抢骗,2000,104,8.2,764651,,8.5,156293,104 min,Comedy|Crime,UK|USA,English|Russian,https://movie.douban.com/subject/1301171/,https://www.imdb.com/title/tt0208092,I
+Alien,异形,1979,53,8.4,766454,,8.2,168301,117 min,Horror|Sci-Fi,UK|USA,English,https://movie.douban.com/subject/1300868/,https://www.imdb.com/title/tt0078748,I
+Witness for the Prosecution,控方证人,1957,68,8.4,103913,26,9.6,301268,116 min,Crime|Drama|Mystery|Thriller,USA,English|German,https://movie.douban.com/subject/1296141/,https://www.imdb.com/title/tt0051201,B
+The Deer Hunter,猎鹿人,1978,182,8.1,303508,,8.4,27727,183 min,Drama|War,USA,English|Russian|Vietnamese|French|Cantonese,https://movie.douban.com/subject/1292403/,https://www.imdb.com/title/tt0077416,I
+The Dark Knight Rises,蝙蝠侠：黑暗骑士崛起,2012,71,8.3,1476126,116,8.8,523815,164 min,Action|Adventure,UK|USA,English|Arabic,https://movie.douban.com/subject/3395373/,https://www.imdb.com/title/tt1345836,B
+The Reader,朗读者,2008,,7.6,226866,234,8.6,375066,124 min,Drama|Romance,Germany|USA,English|German|Greek|Latin,https://movie.douban.com/subject/2213597/,https://www.imdb.com/title/tt0976051,D
+Hamilton,汉密尔顿,2020,27,8.5,33017,,9.5,32691,160 min,Biography|Drama|History|Musical,USA,English,https://movie.douban.com/subject/34961898/,https://www.imdb.com/title/tt8503618,I
+Love Actually,真爱至上,2003,,7.6,415042,171,8.6,534271,135 min,Comedy|Drama|Romance,UK|USA|France,English|Portuguese|French,https://movie.douban.com/subject/1292401/,https://www.imdb.com/title/tt0314331,D
+Portrait of a Lady on Fire,燃烧女子的肖像,2019,235,8.0,47475,,8.6,99645,122 min,Drama|Romance,France,French|Italian,https://movie.douban.com/subject/30257175/,https://www.imdb.com/title/tt8613070,I
+The Circus,马戏团,1928,236,8.0,26932,,9.2,12677,72 min,Comedy|Romance,USA,English,https://movie.douban.com/subject/1299628/,https://www.imdb.com/title/tt0018773,I
+Hacksaw Ridge,血战钢锯岭,2016,190,8.1,416263,140,8.7,592009,139 min,Biography|Drama|History|War,Australia|USA,English|Japanese,https://movie.douban.com/subject/26325320/,https://www.imdb.com/title/tt2119532,B
+Neon Genesis Evangelion: The End of Evangelion,,1997,249,8.0,36040,,,,87 min,Animation|Action|Drama|Fantasy|Sci-Fi,Japan,Japanese,,https://www.imdb.com/title/tt0169858,I
+Life Is Fruity,人生果实,2017,,7.9,176,135,9.5,103923,,Documentary,Japan,Japanese,https://movie.douban.com/subject/26874505/,https://www.imdb.com/title/tt6161512,D
+A Separation,一次别离,2011,114,8.2,213418,245,8.7,200368,123 min,Drama,Iran|France|Australia,Persian,https://movie.douban.com/subject/5964718/,https://www.imdb.com/title/tt1832382,B
+Die Hard,虎胆龙威,1988,127,8.2,766177,,8.2,67290,132 min,Action|Thriller,USA,English|German|Italian|Japanese,https://movie.douban.com/subject/1292697/,https://www.imdb.com/title/tt0095016,I
+Ikiru,生之欲,1952,111,8.2,65020,,9.1,23336,143 min,Drama,Japan,Japanese,https://movie.douban.com/subject/1293847/,https://www.imdb.com/title/tt0044741,I
+Spider-Man: Into the Spider-Verse,蜘蛛侠：平行宇宙,2018,67,8.4,332162,,8.6,483114,117 min,Animation|Action|Adventure|Family|Sci-Fi,USA,English|Spanish,https://movie.douban.com/subject/26374197/,https://www.imdb.com/title/tt4633694,I
+City Lights,城市之光,1931,43,8.5,161927,209,9.3,93050,87 min,Comedy|Drama|Romance,USA,English,https://movie.douban.com/subject/1293908/,https://www.imdb.com/title/tt0021749,B
+Anand,快乐的阿南,1971,125,8.2,27746,,7.6,95,122 min,Drama|Musical,India,Hindi,https://movie.douban.com/subject/2330207/,https://www.imdb.com/title/tt0066763,I
+Fargo,冰血暴,1996,176,8.1,599165,,8.0,63433,98 min,Crime|Drama|Thriller,USA|UK,English,https://movie.douban.com/subject/1292067/,https://www.imdb.com/title/tt0116282,I
+Yojimbo,用心棒,1961,129,8.2,107073,,8.9,28856,110 min,Action|Drama|Thriller,Japan,Japanese,https://movie.douban.com/subject/1292515/,https://www.imdb.com/title/tt0055630,I
+Manchester by the Sea,海边的曼彻斯特,2016,,7.8,237481,190,8.6,361797,137 min,Drama,USA,English,https://movie.douban.com/subject/25980443/,https://www.imdb.com/title/tt4034228,D
+Miracle in Cell No. 7,7号房的礼物,2013,,8.2,15342,104,8.9,383258,127 min,Comedy|Drama,South Korea,Korean,https://movie.douban.com/subject/10777687/,https://www.imdb.com/title/tt2659414,D
+How to Train Your Dragon,驯龙高手,2010,199,8.1,649794,126,8.7,562236,98 min,Animation|Action|Adventure|Family|Fantasy,USA,English,https://movie.douban.com/subject/2353023/,https://www.imdb.com/title/tt0892769,B
+Vertigo,迷魂记,1958,92,8.3,351088,,8.6,75958,128 min,Mystery|Romance|Thriller,USA,English,https://movie.douban.com/subject/1297294/,https://www.imdb.com/title/tt0052357,I
+Batman Begins,蝙蝠侠：侠影之谜,2005,130,8.2,1274088,,8.5,274914,140 min,Action|Adventure,USA|UK,English|Mandarin,https://movie.douban.com/subject/1309069/,https://www.imdb.com/title/tt0372784,I
+Malena,西西里的美丽传说,2000,,7.5,87403,69,8.9,717754,108 min,Comedy|Drama|Romance|War,Italy|USA,Italian|English|Latin|Greek, Ancient (to 1453),https://movie.douban.com/subject/1292402/,https://www.imdb.com/title/tt0213847,D
+Dial M for Murder,电话谋杀案,1954,153,8.1,152660,,8.8,58551,105 min,Crime|Thriller,USA,English,https://movie.douban.com/subject/1301231/,https://www.imdb.com/title/tt0046912,I
+In the Mood for Love,花样年华,2000,239,8.0,118553,168,8.7,420467,98 min,Drama|Romance,Hong Kong|China,Cantonese|Shanghainese|French|Spanish,https://movie.douban.com/subject/1291557/,https://www.imdb.com/title/tt0118694,B
+The Girl Who Leapt Through Time,穿越时空的少女,2006,,7.8,58346,212,8.6,301999,98 min,Animation|Adventure|Comedy|Drama|Family|Mystery|Romance|Sci-Fi,Japan,Japanese,https://movie.douban.com/subject/1937946/,https://www.imdb.com/title/tt0808506,D
+In the Name of the Father,因父之名,1993,186,8.1,152247,,8.8,30773,133 min,Biography|Drama,Ireland|UK,English,https://movie.douban.com/subject/1297009/,https://www.imdb.com/title/tt0107207,I
+Mr. Smith Goes to Washington,史密斯先生到华盛顿,1939,202,8.1,104251,,8.7,8217,129 min,Comedy|Drama,USA,English,https://movie.douban.com/subject/1297127/,https://www.imdb.com/title/tt0031679,I
+I Am Sam,我是山姆,2001,,7.7,140937,155,8.9,223425,132 min,Drama,USA,English,https://movie.douban.com/subject/1306861/,https://www.imdb.com/title/tt0277027,D
+Source Code,源代码,2011,,7.5,475777,217,8.5,618267,93 min,Action|Drama|Mystery|Sci-Fi|Thriller,USA|Canada|France|Germany,English,https://movie.douban.com/subject/3075287/,https://www.imdb.com/title/tt0945513,D
+One Flew Over the Cuckoo's Nest,飞越疯人院,1975,18,8.6,888640,63,9.1,439770,133 min,Drama,USA,English,https://movie.douban.com/subject/1292224/,https://www.imdb.com/title/tt0073486,B
+Spirited Away,千与千寻,2001,28,8.5,623544,7,9.4,1656140,125 min,Animation|Adventure|Family|Fantasy|Mystery,Japan,Japanese,https://movie.douban.com/subject/1291561/,https://www.imdb.com/title/tt0245429,B
+Terminator 2: Judgment Day,终结者2：审判日,1991,38,8.5,972482,203,8.7,259675,137 min,Action|Sci-Fi,USA|France,English|Spanish,https://movie.douban.com/subject/1291844/,https://www.imdb.com/title/tt0103064,B
+Indiana Jones and the Last Crusade,夺宝奇兵3,1989,121,8.2,675151,,8.2,52233,127 min,Action|Adventure,USA,English|German|Greek|Arabic,https://movie.douban.com/subject/1293471/,https://www.imdb.com/title/tt0097576,I
+The Intouchables,触不可及,2011,45,8.5,734490,25,9.2,734236,112 min,Biography|Comedy|Drama,France,French|English,https://movie.douban.com/subject/6786002/,https://www.imdb.com/title/tt1675434,B
+Life Is Beautiful,美丽人生,1997,21,8.6,603637,6,9.5,994307,116 min,Comedy|Drama|Romance|War,Italy,Italian|German|English,https://movie.douban.com/subject/1292063/,https://www.imdb.com/title/tt0118799,B
+Paris Texas,德州巴黎,1984,240,8.0,85840,,8.6,38268,145 min,Drama,West Germany|France|UK,English|Spanish,https://movie.douban.com/subject/1302061/,https://www.imdb.com/title/tt0087884,I
+Our Little Sister,海街日记,2015,,7.5,11693,184,8.8,293044,127 min,Drama|Family,Japan,Japanese,https://movie.douban.com/subject/25895901/,https://www.imdb.com/title/tt3756788,D
+Sunny,阳光姐妹淘,2011,,7.8,4935,124,8.8,466555,124 min,Comedy|Drama,South Korea,Korean,https://movie.douban.com/subject/4917726/,https://www.imdb.com/title/tt1937339,D
+Reservoir Dogs,落水狗,1992,87,8.3,894012,,8.4,157532,99 min,Crime|Drama|Thriller,USA,English,https://movie.douban.com/subject/1299603/,https://www.imdb.com/title/tt0105236,I
+Metropolis,大都会,1927,113,8.2,155564,,9.0,27587,153 min,Drama|Sci-Fi,Germany,German,https://movie.douban.com/subject/1298107/,https://www.imdb.com/title/tt0017136,I
+Star Wars: Episode IV - A New Hope,星球大战,1977,25,8.6,1201363,,8.4,103429,121 min,Action|Adventure|Fantasy|Sci-Fi,USA,English,https://movie.douban.com/subject/1293838/,https://www.imdb.com/title/tt0076759,I
+American Beauty,美国丽人,1999,77,8.3,1046738,,8.5,271637,122 min,Drama,USA,English,https://movie.douban.com/subject/1292062/,https://www.imdb.com/title/tt0169547,I
+Rebecca,蝴蝶梦,1940,234,8.0,118898,,8.3,60724,130 min,Drama|Mystery|Romance|Thriller,USA,English|French,https://movie.douban.com/subject/1293824/,https://www.imdb.com/title/tt0032976,I
+Forrest Gump,阿甘正传,1994,12,8.8,1749857,3,9.5,1592902,142 min,Drama|Romance,USA,English,https://movie.douban.com/subject/1292720/,https://www.imdb.com/title/tt0109830,B
+Taxi Driver,出租车司机,1976,107,8.2,700647,,8.5,154777,114 min,Crime|Drama,USA,English|Spanish,https://movie.douban.com/subject/1292222/,https://www.imdb.com/title/tt0075314,I
+Howl's Moving Castle,哈尔的移动城堡,2004,137,8.2,317150,40,9.1,723316,119 min,Animation|Adventure|Family|Fantasy,Japan,Japanese,https://movie.douban.com/subject/1308807/,https://www.imdb.com/title/tt0347149,B
+Memento,记忆碎片,2000,55,8.4,1095051,169,8.6,452037,113 min,Mystery|Thriller,USA,English,https://movie.douban.com/subject/1304447/,https://www.imdb.com/title/tt0209144,B
+Slumdog Millionaire,贫民窟的百万富翁,2008,,8.0,784940,170,8.6,582940,120 min,Drama|Romance,UK|USA,English|Hindi|French|German,https://movie.douban.com/subject/2209573/,https://www.imdb.com/title/tt1010048,D
+Infernal Affairs,无间道,2002,,8.0,116187,20,9.2,911672,101 min,Action|Crime|Drama|Mystery|Thriller,Hong Kong,Cantonese|English|Thai,https://movie.douban.com/subject/1307914/,https://www.imdb.com/title/tt0338564,D
+Ready Player One,头号玩家,2018,,7.5,352113,157,8.7,1040122,140 min,Action|Adventure|Sci-Fi,USA|India,English,https://movie.douban.com/subject/4920389/,https://www.imdb.com/title/tt1677720,D
+The Good the Bad and the Ugly,黄金三镖客,1966,9,8.8,670438,,9.2,86958,161 min,Western,Italy|Spain|West Germany,Italian,https://movie.douban.com/subject/1401118/,https://www.imdb.com/title/tt0060196,I
+Farewell My Concubine,霸王别姬,1993,,8.1,24220,2,9.6,1562630,171 min,Drama|Music|Romance,China|Hong Kong,Mandarin,https://movie.douban.com/subject/1291546/,https://www.imdb.com/title/tt0106332,D
+Room,房间,2015,172,8.1,355394,193,8.8,295205,118 min,Drama|Thriller,Canada|Ireland|UK|USA,English,https://movie.douban.com/subject/25724855/,https://www.imdb.com/title/tt3170832,B
+Castle in the Sky,天空之城,1986,,8.0,144696,41,9.1,625638,125 min,Animation|Adventure|Drama|Family|Fantasy|Sci-Fi,Japan,Japanese,https://movie.douban.com/subject/1291583/,https://www.imdb.com/title/tt0092067,D
+V for Vendetta,V字仇杀队,2005,156,8.1,1006926,66,8.9,775456,132 min,Action|Drama|Sci-Fi|Thriller,USA|UK|Germany,English,https://movie.douban.com/subject/1309046/,https://www.imdb.com/title/tt0434409,B
+Omae umasoudana,你看起来好像很好吃,2010,,7.3,604,182,8.9,253719,,Animation|Action|Adventure|Family|Fantasy,Japan,Japanese,https://movie.douban.com/subject/4848115/,https://www.imdb.com/title/tt1734113,D
+The Boy in the Striped Pajamas,穿条纹睡衣的男孩,2008,,7.8,185299,73,9.1,366332,94 min,Drama|War,UK|USA,English|Spanish,https://movie.douban.com/subject/3008247/,https://www.imdb.com/title/tt0914798,D
+Capharnaüm,何以为家,2018,89,8.3,52209,32,9.1,699708,126 min,Drama,Lebanon|USA|France|Cyprus|Qatar|UK,Arabic|Amharic,https://movie.douban.com/subject/30170448/,https://www.imdb.com/title/tt8267604,B
+Andrei Rublev,安德烈·卢布廖夫,1966,224,8.0,44555,,9.0,7838,165 min,Biography|Drama|History,Soviet Union,Russian|Italian|Tatar,https://movie.douban.com/subject/1298248/,https://www.imdb.com/title/tt0060107,I
+Oldboy,老男孩,2003,70,8.4,499344,,8.2,223531,120 min,Action|Drama|Mystery|Thriller,South Korea,Korean,https://movie.douban.com/subject/1308865/,https://www.imdb.com/title/tt0364569,I
+Avengers: Endgame,复仇者联盟4：终局之战,2019,73,8.3,747354,,8.5,861291,181 min,Action|Adventure|Drama|Sci-Fi,USA,English|Japanese|Xhosa|German,https://movie.douban.com/subject/26100958/,https://www.imdb.com/title/tt4154796,I
+It's a Wonderful Life,生活多美好,1946,24,8.6,387159,,9.3,61572,130 min,Drama|Family|Fantasy,USA,English|French,https://movie.douban.com/subject/1293749/,https://www.imdb.com/title/tt0038650,I
+The Third Man,第三人,1949,177,8.1,154814,,8.3,15735,104 min,Film-Noir|Mystery|Thriller,UK,English|German|Russian,https://movie.douban.com/subject/1295451/,https://www.imdb.com/title/tt0041959,I
+King of Comedy,喜剧之王,1999,,7.3,6112,92,8.7,692292,85 min,Comedy|Drama|Romance,Hong Kong,Cantonese,https://movie.douban.com/subject/1302425/,https://www.imdb.com/title/tt0188766,D
+Saw,电锯惊魂,2004,,7.6,371138,146,8.7,369596,103 min,Horror|Mystery,USA,English,https://movie.douban.com/subject/1417598/,https://www.imdb.com/title/tt0387564,D
+Perfume: The Story of a Murderer,香水,2006,,7.5,230740,224,8.5,429072,147 min,Crime|Drama,Germany|France|Spain|USA,English,https://movie.douban.com/subject/1760622/,https://www.imdb.com/title/tt0396171,D
+The Last Emperor,末代皇帝,1987,,7.7,91524,30,9.3,544431,163 min,Biography|Drama|History,UK|Italy|France,English|Mandarin|Japanese,https://movie.douban.com/subject/1293172/,https://www.imdb.com/title/tt0093389,D
+The Bourne Supremacy,谍影重重2,2004,,7.7,426332,223,8.7,266431,108 min,Action|Mystery|Thriller,USA|Germany,English|Russian|German|Italian,https://movie.douban.com/subject/1308767/,https://www.imdb.com/title/tt0372183,D
+The Imitation Game,模仿游戏,2014,,8.0,665729,178,8.7,445610,114 min,Biography|Drama|Thriller|War,UK|USA,English|German,https://movie.douban.com/subject/10463953/,https://www.imdb.com/title/tt2084970,D
+Up,飞屋环游记,2009,122,8.2,908857,35,9.0,987572,96 min,Animation|Adventure|Comedy|Family,USA,English,https://movie.douban.com/subject/2129039/,https://www.imdb.com/title/tt1049413,B
+Prince Nezha's Triumph Against Dragon King,哪吒闹海,1979,,7.8,817,149,9.1,181554,65 min,Animation|Action|Adventure|Family|Fantasy,China,Mandarin,https://movie.douban.com/subject/1307315/,https://www.imdb.com/title/tt0354770,D
+Paprika,红辣椒,2006,,7.7,68119,108,9.0,288845,90 min,Animation|Drama|Fantasy|Mystery|Sci-Fi|Thriller,Japan,Japanese|English,https://movie.douban.com/subject/1865703/,https://www.imdb.com/title/tt0851578,D
+Spotlight,聚焦,2015,226,8.0,404998,241,8.8,213621,129 min,Biography|Crime|Drama,USA,English,https://movie.douban.com/subject/25954475/,https://www.imdb.com/title/tt1895587,B
+Following,追随,1998,,7.5,83791,242,8.9,135783,69 min,Crime|Mystery|Thriller,UK,English,https://movie.douban.com/subject/1397546/,https://www.imdb.com/title/tt0154506,D
+Rang De Basanti,芭萨提的颜色,2006,228,8.0,108566,,8.5,13564,167 min,Comedy|Drama,India,Hindi,https://movie.douban.com/subject/1889053/,https://www.imdb.com/title/tt0405508,I
+Schindler's List,辛德勒的名单,1993,6,8.9,1179600,8,9.5,810077,195 min,Biography|Drama|History,USA,English|Hebrew|German|Polish|Latin,https://movie.douban.com/subject/1295124/,https://www.imdb.com/title/tt0108052,B
+Grave of the Fireflies,萤火虫之墓,1988,48,8.5,224066,166,8.7,327262,89 min,Animation|Drama|War,Japan,Japanese,https://movie.douban.com/subject/1293318/,https://www.imdb.com/title/tt0095327,B
+Bohemian Rhapsody,波西米亚狂想曲,2018,,8.0,431656,237,8.7,423049,134 min,Biography|Drama|Music,UK|USA,English|British Sign Language,https://movie.douban.com/subject/5300054/,https://www.imdb.com/title/tt1727824,D
+A Chinese Odyssey: Part One - Pandora's Box,大话西游之月光宝盒,1995,,7.7,5946,42,9.0,894879,87 min,Action|Adventure|Comedy|Drama|Fantasy,Hong Kong|China,Cantonese,https://movie.douban.com/subject/1299398/,https://www.imdb.com/title/tt0112778,D
+The Lion King,狮子王,1994,35,8.5,914434,52,9.0,595865,88 min,Animation|Adventure|Drama|Family|Musical,USA,English|Swahili|Xhosa|Zulu,https://movie.douban.com/subject/1301753/,https://www.imdb.com/title/tt0110357,B
+1917,1917,2019,94,8.3,354516,,8.5,210006,119 min,Drama|War,USA|UK|India|Spain|Canada|China,English|French|German,https://movie.douban.com/subject/30252495/,https://www.imdb.com/title/tt8579674,I
+Seven Samurai,七武士,1954,19,8.6,306925,151,9.2,138359,207 min,Action|Adventure|Drama,Japan,Japanese,https://movie.douban.com/subject/1295399/,https://www.imdb.com/title/tt0047478,B
+The Wages of Fear,恐惧的代价,1953,213,8.1,52732,,8.7,8433,131 min,Adventure|Drama|Thriller,France|Italy,French|English|Spanish|German|Italian|Russian,https://movie.douban.com/subject/1299932/,https://www.imdb.com/title/tt0046268,I
+Full Metal Jacket,全金属外壳,1987,99,8.2,656159,,8.6,97090,116 min,Drama|War,UK|USA,English|Vietnamese,https://movie.douban.com/subject/1300055/,https://www.imdb.com/title/tt0093058,I
+Amadeus,莫扎特传,1984,83,8.3,360049,,8.7,83243,160 min,Biography|Drama|History|Music,USA|France|Czechoslovakia|Italy,English|Italian|Latin|German,https://movie.douban.com/subject/1293399/,https://www.imdb.com/title/tt0086879,I
+Departures,入殓师,2008,,8.1,47543,107,8.8,455615,130 min,Drama|Music,Japan,Japanese,https://movie.douban.com/subject/2149806/,https://www.imdb.com/title/tt1069238,D
+2001: A Space Odyssey,2001太空漫游,1968,90,8.3,585874,208,8.8,208173,149 min,Adventure|Sci-Fi,UK|USA,English|Russian,https://movie.douban.com/subject/1292226/,https://www.imdb.com/title/tt0062622,B
+Gattaca,千钧一发,1997,,7.8,275099,243,8.8,181192,106 min,Drama|Sci-Fi|Thriller,USA,English|Esperanto,https://movie.douban.com/subject/1300117/,https://www.imdb.com/title/tt0119177,D
+For a Few Dollars More,黄昏双镖客,1965,115,8.2,225050,,8.8,29384,132 min,Western,Italy|Spain|West Germany,Italian|English,https://movie.douban.com/subject/1295586/,https://www.imdb.com/title/tt0059578,I
+Once Upon a Time in America,美国往事,1984,72,8.3,301187,77,9.2,308148,229 min,Crime|Drama,USA|Italy,English|Italian|French,https://movie.douban.com/subject/1292262/,https://www.imdb.com/title/tt0087843,B
+Monsters Inc.,怪兽电力公司,2001,232,8.0,792911,137,8.7,475262,92 min,Animation|Adventure|Comedy|Family|Fantasy,USA,English,https://movie.douban.com/subject/1291579/,https://www.imdb.com/title/tt0198781,B
+Brokeback Mountain,断背山,2005,,7.7,316314,98,8.8,547557,134 min,Drama|Romance,USA|Canada,English|Spanish,https://movie.douban.com/subject/1418834/,https://www.imdb.com/title/tt0388795,D
+Flirting Scholar,唐伯虎点秋香,1993,,7.6,4248,113,8.6,752438,102 min,Comedy|Romance,Hong Kong|China,Cantonese,https://movie.douban.com/subject/1306249/,https://www.imdb.com/title/tt0108289,D
+Roman Holiday,罗马假日,1953,,8.0,124319,45,9.0,722093,118 min,Comedy|Romance,USA,English|Italian|German,https://movie.douban.com/subject/1293839/,https://www.imdb.com/title/tt0046250,D
+Eat Drink Man Woman,饮食男女,1994,,7.8,18077,62,9.1,419112,124 min,Comedy|Drama|Romance,Taiwan,Mandarin|French,https://movie.douban.com/subject/1291818/,https://www.imdb.com/title/tt0111797,D
+No Country for Old Men,老无所依,2007,157,8.1,828360,,8.2,213806,122 min,Crime|Drama|Thriller,USA|Mexico,English|Spanish,https://movie.douban.com/subject/1857099/,https://www.imdb.com/title/tt0477348,I
+Eternal Sunshine of the Spotless Mind,暖暖内含光,2004,96,8.3,886941,,8.5,194362,108 min,Drama|Romance|Sci-Fi,USA,English,https://movie.douban.com/subject/1308777/,https://www.imdb.com/title/tt0338013,I
+Logan,金刚狼3：殊死一战,2017,218,8.0,625000,,8.3,366944,137 min,Action|Drama|Sci-Fi|Thriller,USA,English|Spanish,https://movie.douban.com/subject/25765735/,https://www.imdb.com/title/tt3315342,I
+Casino,赌城风云,1995,141,8.2,450971,,8.3,31060,178 min,Crime|Drama,France|USA,English,https://movie.douban.com/subject/1299799/,https://www.imdb.com/title/tt0112641,I
+Three Billboards Outside Ebbing Missouri,三块广告牌,2017,151,8.1,409244,160,8.7,619310,115 min,Comedy|Crime|Drama,UK|USA,English,https://movie.douban.com/subject/26611804/,https://www.imdb.com/title/tt5027774,B
+The Wolf of Wall Street,华尔街之狼,2013,143,8.2,1136755,,7.9,276111,180 min,Biography|Crime|Drama,USA,English|French,https://movie.douban.com/subject/2997076/,https://www.imdb.com/title/tt0993846,I
+Lawrence of Arabia,阿拉伯的劳伦斯,1962,109,8.2,260705,,8.7,36068,187 min,Adventure|Biography|Drama|History|War,UK,English|Arabic|Turkish,https://movie.douban.com/subject/1292349/,https://www.imdb.com/title/tt0056172,I
+Harry Potter and the Prisoner of Azkaban,哈利·波特与阿兹卡班的囚徒,2004,,7.9,531385,153,8.7,414619,142 min,Adventure|Family|Fantasy|Mystery,UK|USA,English,https://movie.douban.com/subject/1291544/,https://www.imdb.com/title/tt0304141,D
+Harakiri,切腹,1962,34,8.5,36661,,9.3,25360,133 min,Action|Drama|Mystery,Japan,Japanese,https://movie.douban.com/subject/1304920/,https://www.imdb.com/title/tt0056058,I
+The Truman Show,楚门的世界,1998,171,8.1,907187,12,9.3,1140952,103 min,Comedy|Drama|Sci-Fi,USA,English,https://movie.douban.com/subject/1292064/,https://www.imdb.com/title/tt0120382,B
+Toy Story,玩具总动员,1995,81,8.3,861963,,8.4,269528,81 min,Animation|Adventure|Comedy|Family|Fantasy,USA,English,https://movie.douban.com/subject/1291575/,https://www.imdb.com/title/tt0114709,I
+The Usual Suspects,非常嫌疑犯,1995,33,8.5,966152,,8.6,198569,106 min,Crime|Mystery|Thriller,USA|Germany,English|Hungarian|Spanish|French,https://movie.douban.com/subject/1292214/,https://www.imdb.com/title/tt0114814,I
+Black Swan,黑天鹅,2010,,8.0,684742,177,8.6,644474,108 min,Drama|Thriller,USA,English|French|Italian,https://movie.douban.com/subject/1978709/,https://www.imdb.com/title/tt0947798,D
+In the Heat of the Sun,阳光灿烂的日子,1994,,8.2,3711,102,8.8,464472,134 min,Drama|Romance,China|Hong Kong,Mandarin,https://movie.douban.com/subject/1291875/,https://www.imdb.com/title/tt0111786,D
+On the Waterfront,码头风云,1954,178,8.1,137997,,7.9,10876,108 min,Crime|Drama|Thriller,USA,English,https://movie.douban.com/subject/1292521/,https://www.imdb.com/title/tt0047296,I
+Rififi,男人的争斗,1955,220,8.0,26126,,8.6,2980,118 min,Crime|Thriller,France,French|Italian|English,https://movie.douban.com/subject/1299885/,https://www.imdb.com/title/tt0048021,I
+The Help,相助,2011,243,8.0,418501,,8.8,81877,146 min,Drama,USA,English,https://movie.douban.com/subject/3792848/,https://www.imdb.com/title/tt1454029,I
+The Godfather: Part II,教父2,1974,3,9.0,1095030,50,9.2,381412,202 min,Crime|Drama,USA,English|Italian|Spanish|Latin|Sicilian,https://movie.douban.com/subject/1299131/,https://www.imdb.com/title/tt0071562,B
+Flipped,怦然心动,2010,,7.7,79519,24,9.1,1316320,90 min,Comedy|Drama|Romance,USA,English,https://movie.douban.com/subject/3319755/,https://www.imdb.com/title/tt0817177,D
+A Better Tomorrow,英雄本色,1986,,7.5,19995,152,8.7,371268,95 min,Action|Crime|Drama|Thriller,Hong Kong,Cantonese|Mandarin|English,https://movie.douban.com/subject/1297574/,https://www.imdb.com/title/tt0092263,D
+Avengers: Infinity War,复仇者联盟3：无限战争,2018,64,8.4,791988,,8.1,668232,149 min,Action|Adventure|Sci-Fi,USA,English,https://movie.douban.com/subject/24773958/,https://www.imdb.com/title/tt4154756,I
+A Clockwork Orange,发条橙,1971,102,8.2,738297,250,8.6,286475,136 min,Crime|Drama|Sci-Fi,UK|USA,English,https://movie.douban.com/subject/1292233/,https://www.imdb.com/title/tt0066921,B
+The Terminal,幸福终点站,2004,,7.4,395518,129,8.8,398862,128 min,Comedy|Drama|Romance,USA,English|Bulgarian|Spanish|Russian|Mandarin|German|French,https://movie.douban.com/subject/1292274/,https://www.imdb.com/title/tt0362227,D
+Network,电视台风云,1976,207,8.1,141437,,8.4,8936,121 min,Drama,USA,English,https://movie.douban.com/subject/1297531/,https://www.imdb.com/title/tt0074958,I
+Call Me by Your Name,请以你的名字呼唤我,2017,,7.9,197888,100,8.9,471848,132 min,Drama|Romance,Italy|France|USA|Brazil,English|Italian|French|German|Hebrew,https://movie.douban.com/subject/26799731/,https://www.imdb.com/title/tt5726616,D
+Confessions,告白,2010,,7.8,34745,119,8.7,546041,106 min,Drama|Thriller,Japan,Japanese,https://movie.douban.com/subject/4268598/,https://www.imdb.com/title/tt1590089,D
+Legends of the Fall,燃情岁月,1994,,7.6,144276,210,8.8,219229,133 min,Drama|Romance|War|Western,USA,English|Cornish,https://movie.douban.com/subject/1295865/,https://www.imdb.com/title/tt0110322,D
+Hail the Judge,九品芝麻官,1994,,7.5,3156,225,8.5,405119,106 min,Comedy,Hong Kong,Cantonese,https://movie.douban.com/subject/1297518/,https://www.imdb.com/title/tt0110201,D
+The Bridge on the River Kwai,桂河大桥,1957,173,8.1,198145,,8.4,18997,161 min,Adventure|Drama|War,UK|USA,English|Japanese|Thai,https://movie.douban.com/subject/1294958/,https://www.imdb.com/title/tt0050212,I
+Toy Story 3,玩具总动员3,2010,110,8.2,737815,138,8.8,368298,103 min,Animation|Adventure|Comedy|Family|Fantasy,USA,English|Spanish,https://movie.douban.com/subject/1858711/,https://www.imdb.com/title/tt0435761,B
+Cinema Paradiso,天堂电影院,1988,51,8.4,222028,44,9.2,485328,155 min,Drama,Italy|France,Italian,https://movie.douban.com/subject/1291828/,https://www.imdb.com/title/tt0095765,B
+Lust Caution,色，戒,2007,,7.5,36524,213,8.5,501085,157 min,Drama|History|Romance|Thriller|War,USA|China|Taiwan,Mandarin|Japanese|English|Shanghainese|Hindi|Cantonese,https://movie.douban.com/subject/1828115/,https://www.imdb.com/title/tt0808357,D
+Jurassic Park,侏罗纪公园,1993,166,8.1,841810,,8.2,248769,127 min,Action|Adventure|Sci-Fi|Thriller,USA,English|Spanish,https://movie.douban.com/subject/1292523/,https://www.imdb.com/title/tt0107290,I
+Hotel Rwanda,卢旺达饭店,2004,225,8.0,328531,164,8.9,218265,121 min,Biography|Drama|History|War,UK|South Africa|Italy,English|French|Kinyarwanda,https://movie.douban.com/subject/1291822/,https://www.imdb.com/title/tt0395169,B
+The Treasure of the Sierra Madre,碧血金沙,1948,150,8.1,111123,,8.6,6025,126 min,Adventure|Drama|Western,USA|Mexico,English|Spanish,https://movie.douban.com/subject/1292516/,https://www.imdb.com/title/tt0040897,I
+A Brighter Summer Day,牯岭街少年杀人事件,1991,,8.4,7093,211,8.8,189505,237 min,Crime|Drama|Romance,Taiwan,Mandarin|Min Nan|Shanghainese,https://movie.douban.com/subject/1292329/,https://www.imdb.com/title/tt0101985,D
+The Apartment,桃色公寓,1960,117,8.2,158259,,8.7,28295,125 min,Comedy|Drama|Romance,USA,English,https://movie.douban.com/subject/1394218/,https://www.imdb.com/title/tt0053604,I
+Sherlock Jr.,福尔摩斯二世,1924,201,8.1,39370,,9.5,13028,45 min,Action|Comedy|Romance,USA,English,https://movie.douban.com/subject/1303408/,https://www.imdb.com/title/tt0015324,I
+Love Letter,情书,1995,,8.0,6876,75,8.9,666324,117 min,Drama|Romance,Japan,Japanese,https://movie.douban.com/subject/1292220/,https://www.imdb.com/title/tt0113703,D
+Whisper of the Heart,侧耳倾听,1995,,7.9,48474,114,8.9,337780,111 min,Animation|Drama|Family|Music|Romance,Japan,Japanese,https://movie.douban.com/subject/1297052/,https://www.imdb.com/title/tt0113824,D
+Ashes of Time,东邪西毒,1994,,7.2,12832,173,8.6,445092,100 min,Action|Drama,Hong Kong|Taiwan,Mandarin|Cantonese,https://movie.douban.com/subject/1292328/,https://www.imdb.com/title/tt0109688,D
+Rear Window,后窗,1954,52,8.4,430889,,8.6,123789,112 min,Mystery|Thriller,USA,English,https://movie.douban.com/subject/1299080/,https://www.imdb.com/title/tt0047396,I
+Hachi-ko,忠犬八公物语,1987,,8.1,4533,176,9.2,136639,107 min,Drama|Family,Japan,Japanese,https://movie.douban.com/subject/1959195/,https://www.imdb.com/title/tt0093132,D
+Bicycle Thieves,偷自行车的人,1948,100,8.2,140851,,9.0,65747,89 min,Drama,Italy,Italian|English,https://movie.douban.com/subject/1295873/,https://www.imdb.com/title/tt0040522,I
+L.A. Confidential,洛城机密,1997,123,8.2,520343,,8.7,110024,138 min,Crime|Drama|Mystery|Thriller,USA,English,https://movie.douban.com/subject/1292348/,https://www.imdb.com/title/tt0119488,I
+Heidi,海蒂和爷爷,2015,,7.5,4489,72,9.2,295645,111 min,Drama|Family,Germany|Switzerland|South Africa,German|Swiss German|Afrikaans,https://movie.douban.com/subject/25958717/,https://www.imdb.com/title/tt3700392,D
+The Silence of the Lambs,沉默的羔羊,1991,23,8.6,1229982,81,8.8,621096,118 min,Crime|Drama|Thriller,USA,English|Latin,https://movie.douban.com/subject/1293544/,https://www.imdb.com/title/tt0102926,B
+The Sixth Sense,第六感,1999,164,8.1,892279,106,8.9,400693,107 min,Drama|Mystery|Thriller,USA,English|Latin|Spanish,https://movie.douban.com/subject/1297630/,https://www.imdb.com/title/tt0167404,B
+The Wedding Banquet,喜宴,1993,,7.6,13624,150,8.9,246182,106 min,Comedy|Drama|Romance,Taiwan|USA,Mandarin|English,https://movie.douban.com/subject/1303037/,https://www.imdb.com/title/tt0107156,D
+Green Book,绿皮书,2018,131,8.2,338124,68,8.9,1124038,130 min,Biography|Comedy|Drama|Music,USA|China,English|Italian|Russian|German,https://movie.douban.com/subject/27060077/,https://www.imdb.com/title/tt6966692,B
+The Grand Budapest Hotel,布达佩斯大饭店,2014,191,8.1,685380,86,8.8,650149,99 min,Adventure|Comedy|Crime,Germany|USA,English|French|German,https://movie.douban.com/subject/11525673/,https://www.imdb.com/title/tt2278388,B
+Pan's Labyrinth,潘神的迷宫,2006,142,8.2,605529,,7.8,172720,118 min,Drama|Fantasy|War,Spain|Mexico|USA|France,Spanish,https://movie.douban.com/subject/1767042/,https://www.imdb.com/title/tt0457430,I
+Barry Lyndon,巴里·林登,1975,204,8.1,144701,,8.8,25891,185 min,Adventure|Drama|History|War,UK|USA,English|German|French,https://movie.douban.com/subject/1292472/,https://www.imdb.com/title/tt0072684,I
+Late Blossom,我爱你,2011,,7.3,395,244,9.0,114085,,Drama|Romance,South Korea,Korean,https://movie.douban.com/subject/5908478/,https://www.imdb.com/title/tt1862020,D
+La Grande Vadrouille,虎口脱险,1966,,8.0,15505,194,8.9,174667,132 min,Adventure|Comedy|War,France|UK,French|English|German,https://movie.douban.com/subject/1296909/,https://www.imdb.com/title/tt0060474,D
+American History X,美国X档案,1998,39,8.5,1011522,,8.5,79237,119 min,Drama,USA,English,https://movie.douban.com/subject/1293527/,https://www.imdb.com/title/tt0120586,I
+The Dark Knight,蝙蝠侠：黑暗骑士,2008,4,9.0,2234409,27,9.2,759987,152 min,Action|Crime|Drama|Thriller,USA|UK,English|Mandarin,https://movie.douban.com/subject/1851857/,https://www.imdb.com/title/tt0468569,B
+Perfect Strangers,完美陌生人,2016,,7.8,54152,218,8.5,411271,96 min,Comedy|Drama,Italy,Italian,https://movie.douban.com/subject/26614893/,https://www.imdb.com/title/tt4901306,D
+City of God,上帝之城,2002,22,8.6,684381,145,8.9,234796,130 min,Crime|Drama,Brazil|France|Germany,Portuguese,https://movie.douban.com/subject/1292208/,https://www.imdb.com/title/tt0317248,B
+Ice Age,冰川时代,2002,,7.5,430442,186,8.6,469346,81 min,Animation|Adventure|Comedy|Family|Fantasy,USA,English,https://movie.douban.com/subject/1291578/,https://www.imdb.com/title/tt0268380,D
+The Thing,怪形,1982,165,8.1,358884,,7.9,31173,109 min,Horror|Mystery|Sci-Fi,USA,English|Norwegian,https://movie.douban.com/subject/1296794/,https://www.imdb.com/title/tt0084787,I
+Raging Bull,愤怒的公牛,1980,147,8.1,312762,,8.4,42192,129 min,Biography|Drama|Sport,USA,English,https://movie.douban.com/subject/1293155/,https://www.imdb.com/title/tt0081398,I
+Inception,盗梦空间,2010,13,8.7,1992748,9,9.3,1519344,148 min,Action|Adventure|Sci-Fi|Thriller,USA|UK,English|Japanese|French,https://movie.douban.com/subject/3541415/,https://www.imdb.com/title/tt1375666,B
+Kikujiro,菊次郎的夏天,1999,,7.8,18057,130,8.8,379909,122 min,Drama|Comedy,Japan,Japanese,https://movie.douban.com/subject/1293359/,https://www.imdb.com/title/tt0199683,D
+The Bourne Identity,谍影重重,2002,,7.9,497969,229,8.6,318326,119 min,Action|Mystery|Thriller,USA|Germany|Czech Republic|France,Yoruba|English|French|German|Dutch|Italian,https://movie.douban.com/subject/1304102/,https://www.imdb.com/title/tt0258463,D
+Ben-Hur,宾虚,1959,212,8.1,214304,,8.6,26902,212 min,Adventure|Drama|History,USA,English,https://movie.douban.com/subject/1293150/,https://www.imdb.com/title/tt0052618,I
+The Matrix Revolutions,黑客帝国3：矩阵革命,2003,,6.8,438586,175,8.8,308394,129 min,Action|Sci-Fi,USA,English|French,https://movie.douban.com/subject/1302467/,https://www.imdb.com/title/tt0242653,D
+Into the Wild,荒野生存,2007,210,8.1,559182,,8.6,177113,148 min,Adventure|Biography|Drama,USA,English|Danish,https://movie.douban.com/subject/1905462/,https://www.imdb.com/title/tt0758758,I
+Rush,极速风流,2013,219,8.0,421643,,8.8,115135,123 min,Action|Biography|Drama|Sport,UK|Germany|USA,English|German|Italian|French|Spanish,https://movie.douban.com/subject/6803494/,https://www.imdb.com/title/tt1979320,I
+La Haine,怒火青春,1995,231,8.0,143755,,8.2,12713,98 min,Crime|Drama,France,French,https://movie.douban.com/subject/1306449/,https://www.imdb.com/title/tt0113247,I
+Come and See,自己去看,1985,120,8.2,53493,,8.6,4462,142 min,Drama|War,Soviet Union,Belarusian|Russian|German,https://movie.douban.com/subject/1422186/,https://www.imdb.com/title/tt0091251,I
+A Man Called Ove,一个叫欧维的男人决定去死,2015,,7.7,44744,161,8.8,283362,116 min,Comedy|Drama|Romance,Sweden,Swedish|Persian,https://movie.douban.com/subject/26628357/,https://www.imdb.com/title/tt4080728,D
+Amélie,天使爱美丽,2001,108,8.2,689044,94,8.7,785561,122 min,Comedy|Romance,France|Germany,French|Russian|English,https://movie.douban.com/subject/1292215/,https://www.imdb.com/title/tt0211915,B
+Judgment at Nuremberg,纽伦堡的审判,1961,149,8.1,67081,,9.1,5458,179 min,Drama|War,USA,English|German,https://movie.douban.com/subject/1292589/,https://www.imdb.com/title/tt0055031,I
+Days of Being Wild,阿飞正传,1990,,7.6,17379,219,8.5,368972,,Crime|Drama|Romance,Hong Kong,Cantonese|Shanghainese|Tagalog|English|Mandarin,https://movie.douban.com/subject/1305690/,https://www.imdb.com/title/tt0101258,D
+Zootopia,疯狂动物城,2016,,8.0,419715,19,9.2,1344873,108 min,Animation|Adventure|Comedy|Crime|Family|Mystery,USA,English,https://movie.douban.com/subject/25662329/,https://www.imdb.com/title/tt2948356,D
+Dragon Inn,新龙门客栈,1992,,7.3,3682,214,8.6,326179,88 min,Action|Thriller,Hong Kong,Cantonese|Mandarin,https://movie.douban.com/subject/1292287/,https://www.imdb.com/title/tt0105859,D
+Secrets of the Heavenly Book,天书奇谭,1983,,7.3,233,141,9.2,155759,89 min,Animation,China,Chinese,https://movie.douban.com/subject/1428581/,https://www.imdb.com/title/tt6035092,D
+Paths of Glory,光荣之路,1957,61,8.4,171914,,9.1,32984,88 min,Drama|War,USA,English|German|Latin,https://movie.douban.com/subject/1292969/,https://www.imdb.com/title/tt0050825,I
+The Cove,海豚湾,2009,,8.4,46758,74,9.3,290623,92 min,Documentary|Biography|Crime|History|News,USA,English|Japanese,https://movie.douban.com/subject/3442220/,https://www.imdb.com/title/tt1313104,D
+Devils on the Doorstep,鬼子来了,2000,,8.2,6556,38,9.3,454289,139 min,Comedy|Drama|War,China,Mandarin|Japanese|English|French,https://movie.douban.com/subject/1291858/,https://www.imdb.com/title/tt0245929,D
+All About Eve,彗星美人,1950,139,8.2,117278,,8.6,17622,138 min,Drama,USA,English|French,https://movie.douban.com/subject/1401385/,https://www.imdb.com/title/tt0042192,I
+Wreck-It Ralph,无敌破坏王,2012,,7.7,370525,185,8.7,392733,101 min,Animation|Adventure|Comedy|Family|Fantasy,USA,English,https://movie.douban.com/subject/6534248/,https://www.imdb.com/title/tt1772341,D
+Hachi: A Dog's Tale,忠犬八公的故事,2009,211,8.1,244934,10,9.4,1057192,93 min,Drama|Family,UK|USA,English|Japanese,https://movie.douban.com/subject/3011091/,https://www.imdb.com/title/tt1028532,B
+The Butterfly Effect,蝴蝶效应,2004,,7.6,443373,82,8.8,685061,113 min,Drama|Sci-Fi|Thriller,USA|Canada,English,https://movie.douban.com/subject/1292343/,https://www.imdb.com/title/tt0289879,D
+Requiem for a Dream,梦之安魂曲,2000,91,8.3,746305,,8.7,164976,102 min,Drama,USA,English,https://movie.douban.com/subject/1292270/,https://www.imdb.com/title/tt0180093,I
+Trainspotting,猜火车,1996,163,8.1,622092,233,8.5,343596,93 min,Drama,UK,English,https://movie.douban.com/subject/1292528/,https://www.imdb.com/title/tt0117951,B
+Tokyo Story,东京物语,1953,179,8.1,50106,240,9.2,94267,136 min,Drama,Japan,Japanese|English,https://movie.douban.com/subject/1291568/,https://www.imdb.com/title/tt0046438,B
+The Wave,浪潮,2008,,7.6,100387,235,8.7,208026,107 min,Drama|Thriller,Germany|France,German,https://movie.douban.com/subject/2297265/,https://www.imdb.com/title/tt1063669,D
+A Perfect World,完美的世界,1993,,7.6,72110,133,9.1,190372,138 min,Crime|Drama|Thriller,USA,English,https://movie.douban.com/subject/1300992/,https://www.imdb.com/title/tt0107808,D
+Bajrangi Bhaijaan,小萝莉的猴神大叔,2015,,8.0,69668,236,8.4,366853,163 min,Action|Comedy|Drama,India,Hindi|Urdu,https://movie.douban.com/subject/26393561/,https://www.imdb.com/title/tt3863552,D
+To Kill a Mockingbird,杀死一只知更鸟,1962,119,8.2,288175,,8.6,42378,129 min,Crime|Drama,USA,English,https://movie.douban.com/subject/1297991/,https://www.imdb.com/title/tt0056592,I
+The Sound of Music,音乐之声,1965,,8.0,198069,76,9.0,439701,172 min,Biography|Drama|Family|Musical|Romance,USA,English|German,https://movie.douban.com/subject/1294408/,https://www.imdb.com/title/tt0059742,D
+Identity,致命ID,2003,,7.3,221982,93,8.8,581513,90 min,Mystery|Thriller,USA,English,https://movie.douban.com/subject/1297192/,https://www.imdb.com/title/tt0309698,D
+High and Low,天国与地狱,1963,82,8.3,30835,,8.6,8272,143 min,Crime|Drama|Mystery|Thriller,Japan,Japanese,https://movie.douban.com/subject/1293663/,https://www.imdb.com/title/tt0057565,I
+Casablanca,卡萨布兰卡,1942,50,8.4,508506,,8.6,179399,102 min,Drama|Romance|War,USA,English|French|German|Italian,https://movie.douban.com/subject/1296753/,https://www.imdb.com/title/tt0034583,I
+Warrior,勇士,2011,161,8.1,426513,,8.9,126770,140 min,Action|Drama|Sport,USA,English|Spanish,https://movie.douban.com/subject/3217169/,https://www.imdb.com/title/tt1291584,I
+Train to Busan,釜山行,2016,,7.6,148017,147,8.5,841726,118 min,Action|Horror|Thriller,South Korea,Korean|Hawaiian,https://movie.douban.com/subject/25986180/,https://www.imdb.com/title/tt5700672,D
+Once a Thief,纵横四海,1991,,6.8,5752,158,8.8,298861,108 min,Action|Comedy|Crime|Thriller,Hong Kong,French|Cantonese|English|Hakka,https://movie.douban.com/subject/1295409/,https://www.imdb.com/title/tt0101020,D
+Hope,素媛,2013,,8.3,5119,39,9.2,463264,122 min,Drama,South Korea,Korean,https://movie.douban.com/subject/21937452/,https://www.imdb.com/title/tt3153634,D
+The 400 Blows,四百击,1959,223,8.0,101465,,8.8,76246,99 min,Crime|Drama,France,French|English,https://movie.douban.com/subject/1300056/,https://www.imdb.com/title/tt0053198,I
+The Shawshank Redemption,肖申克的救赎,1994,1,9.2,2271679,1,9.7,2107467,142 min,Drama,USA,English,https://movie.douban.com/subject/1292052/,https://www.imdb.com/title/tt0111161,B
+Mad Max: Fury Road,疯狂的麦克斯4：狂暴之路,2015,205,8.1,853285,228,8.6,379140,120 min,Action|Adventure|Sci-Fi|Thriller,Australia|South Africa,English|Russian,https://movie.douban.com/subject/3592854/,https://www.imdb.com/title/tt1392190,B
+To Live,活着,1994,,8.3,15498,28,9.2,591284,133 min,Drama|War,China|Hong Kong,Mandarin,https://movie.douban.com/subject/1292365/,https://www.imdb.com/title/tt0110081,D
+New World,新世界,2013,,7.6,19690,180,8.8,245599,135 min,Action|Crime|Drama|Thriller,South Korea,Korean|Mandarin,https://movie.douban.com/subject/10437779/,https://www.imdb.com/title/tt2625030,D
+Harry Potter and the Goblet of Fire,哈利·波特与火焰杯,2005,,7.7,528745,230,8.5,369770,157 min,Adventure|Family|Fantasy|Mystery,UK|USA,English|French,https://movie.douban.com/subject/1309055/,https://www.imdb.com/title/tt0330373,D
+Stand by Me,伴我同行,1986,206,8.1,354705,,8.9,83967,89 min,Adventure|Drama,USA,English,https://movie.douban.com/subject/1292925/,https://www.imdb.com/title/tt0092005,I
+Citizen Kane,公民凯恩,1941,98,8.3,388137,,8.7,78437,119 min,Drama|Mystery,USA,English|Italian,https://movie.douban.com/subject/1292288/,https://www.imdb.com/title/tt0033467,I
+Havoc in Heaven,大闹天宫,1963,,8.1,1676,53,9.3,287560,84 min,Animation|Action|Adventure|Family|Fantasy,China,Mandarin,https://movie.douban.com/subject/1418019/,https://www.imdb.com/title/tt0059855,D
+Kiki's Delivery Service,魔女宅急便,1989,,7.8,117175,195,8.6,344187,103 min,Animation|Adventure|Drama|Family|Fantasy,Japan,Japanese,https://movie.douban.com/subject/1307811/,https://www.imdb.com/title/tt0097814,D
+Your Name.,你的名字。,2016,75,8.3,176368,165,8.4,1018621,106 min,Animation|Drama|Fantasy|Romance,Japan,Japanese,https://movie.douban.com/subject/26683290/,https://www.imdb.com/title/tt5311514,B
+M,M就是凶手,1931,93,8.3,138759,,8.3,22538,117 min,Crime|Mystery|Thriller,Germany,German,https://movie.douban.com/subject/1293381/,https://www.imdb.com/title/tt0022100,I
+Harry Potter and the Deathly Hallows: Part 2,哈利·波特与死亡圣器(下),2011,217,8.1,741056,96,8.8,552829,130 min,Adventure|Drama|Fantasy|Mystery,UK|USA,English,https://movie.douban.com/subject/3011235/,https://www.imdb.com/title/tt1201607,B
+Blade Runner,银翼杀手,1982,169,8.1,676131,,8.4,165649,117 min,Action|Sci-Fi|Thriller,USA,English|German|Cantonese|Japanese|Hungarian|Arabic,https://movie.douban.com/subject/1291839/,https://www.imdb.com/title/tt0083658,I
+Klaus,克劳斯：圣诞节的秘密,2019,185,8.1,73694,,8.7,29115,96 min,Animation|Adventure|Comedy|Family,Spain|UK,English|Saami,https://movie.douban.com/subject/26858510/,https://www.imdb.com/title/tt4729430,I
+Detachment,超脱,2011,,7.7,74599,115,8.9,343168,98 min,Drama,USA,English,https://movie.douban.com/subject/5322596/,https://www.imdb.com/title/tt1683526,D
+Parasite,寄生虫,2019,30,8.5,459979,,8.7,996960,132 min,Comedy|Drama|Thriller,South Korea,Korean|English,https://movie.douban.com/subject/27010768/,https://www.imdb.com/title/tt6751668,I
+Chinatown,唐人街,1974,155,8.1,285786,,8.4,41102,130 min,Drama|Mystery|Thriller,USA,English|Cantonese|Spanish,https://movie.douban.com/subject/1293889/,https://www.imdb.com/title/tt0071315,I
+Waterloo Bridge,魂断蓝桥,1940,,7.8,8709,205,8.8,205277,108 min,Drama|Romance|War,USA,English|French,https://movie.douban.com/subject/1293964/,https://www.imdb.com/title/tt0033238,D
+Singin' in the Rain,雨中曲,1952,105,8.2,212476,196,9.0,152784,103 min,Comedy|Musical|Romance,USA,English,https://movie.douban.com/subject/1293460/,https://www.imdb.com/title/tt0045152,B
+Memories of Matsuko,被嫌弃的松子的一生,2006,,7.8,6206,87,8.9,550575,130 min,Comedy|Drama|Musical|Mystery,Japan,Japanese|English,https://movie.douban.com/subject/1787291/,https://www.imdb.com/title/tt0768120,D
+Before Sunrise,爱在黎明破晓前,1995,193,8.1,261539,111,8.8,439166,101 min,Drama|Romance,USA|Austria|Switzerland,English|German|French,https://movie.douban.com/subject/1296339/,https://www.imdb.com/title/tt0112471,B
+The Elephant Man,象人,1980,162,8.1,213800,,8.2,19778,124 min,Biography|Drama,USA|UK,English|French,https://movie.douban.com/subject/1293200/,https://www.imdb.com/title/tt0080678,I
+Cool Hand Luke,铁窗喋血,1967,208,8.1,157995,,8.1,4549,127 min,Crime|Drama,USA,English,https://movie.douban.com/subject/1293698/,https://www.imdb.com/title/tt0061512,I
+3 Idiots,三傻大闹宝莱坞,2009,79,8.3,330725,13,9.2,1409673,170 min,Comedy|Drama,India,Hindi|English,https://movie.douban.com/subject/3793023/,https://www.imdb.com/title/tt1187043,B
+The Great Buddha +,大佛普拉斯,2017,,7.6,2824,222,8.7,284877,102 min,Comedy|Crime|Drama,Taiwan,Min Nan,https://movie.douban.com/subject/27059130/,https://www.imdb.com/title/tt7010412,D
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,奇爱博士,1964,69,8.4,439945,,8.8,65452,95 min,Comedy,UK|USA,English|Russian,https://movie.douban.com/subject/1322848/,https://www.imdb.com/title/tt0057012,I
+Dying to Survive,我不是药神,2018,,7.9,4384,48,9.0,1545591,117 min,Comedy|Drama,China,Mandarin|English,https://movie.douban.com/subject/26752088/,https://www.imdb.com/title/tt7362036,D
+Raiders of the Lost Ark,夺宝奇兵,1981,56,8.4,863223,,7.9,70245,115 min,Action|Adventure,USA,English|German|Hebrew|Spanish|Arabic|Nepali,https://movie.douban.com/subject/1296717/,https://www.imdb.com/title/tt0082971,I
+The Bourne Ultimatum,谍影重重3,2007,,8.0,596747,154,8.8,316091,115 min,Action|Mystery|Thriller,USA|Germany|France|Spain,English|French|Arabic|Russian|Spanish,https://movie.douban.com/subject/1578507/,https://www.imdb.com/title/tt0440963,D
+Harry Potter and the Sorcerer's Stone,哈利·波特与魔法石,2001,,7.6,622733,43,9.0,700533,152 min,Adventure|Family|Fantasy,UK|USA,English,https://movie.douban.com/subject/1295038/,https://www.imdb.com/title/tt0241527,D
+The Kid,寻子遇仙记,1921,101,8.2,108521,,9.2,26137,68 min,Comedy|Drama|Family,USA,English|None,https://movie.douban.com/subject/1293270/,https://www.imdb.com/title/tt0012349,I
+To the Forest of Firefly Lights,萤火之森,2011,,7.9,12727,122,8.9,366999,45 min,Animation|Drama|Fantasy,Japan,Japanese,https://movie.douban.com/subject/5989818/,https://www.imdb.com/title/tt2061702,D
+Wild Strawberries,野草莓,1957,168,8.1,92412,,8.7,41612,91 min,Drama|Romance,Sweden,Swedish|Latin,https://movie.douban.com/subject/1293071/,https://www.imdb.com/title/tt0050986,I
+Kung Fu Hustle,功夫,2004,,7.7,124458,134,8.6,704450,99 min,Action|Comedy|Fantasy,Hong Kong|China|USA,Cantonese|Mandarin,https://movie.douban.com/subject/1291543/,https://www.imdb.com/title/tt0373074,D
+It Happened One Night,一夜风流,1934,238,8.0,91062,,8.7,37291,105 min,Comedy|Romance,USA,English,https://movie.douban.com/subject/1295684/,https://www.imdb.com/title/tt0025316,I
+Modern Times,摩登时代,1936,40,8.5,210392,89,9.3,205687,87 min,Comedy|Drama|Family|Romance,USA,English,https://movie.douban.com/subject/1294371/,https://www.imdb.com/title/tt0027977,B
+Coherence,彗星来的那一夜,2013,,7.2,102924,232,8.5,373837,89 min,Drama|Mystery|Sci-Fi|Thriller,USA|UK,English,https://movie.douban.com/subject/25807345/,https://www.imdb.com/title/tt2866360,D
+Echoes of the Rainbow,岁月神偷,2010,,7.4,1728,156,8.7,467514,117 min,Comedy|Drama|Romance,Hong Kong,Cantonese|Mandarin|English|Shanghainese|French,https://movie.douban.com/subject/3792799/,https://www.imdb.com/title/tt1602572,D
+Star Wars: Episode V - The Empire Strikes Back,星球大战2：帝国反击战,1980,14,8.7,1129212,,8.4,79267,124 min,Action|Adventure|Fantasy|Sci-Fi,USA,English,https://movie.douban.com/subject/1296528/,https://www.imdb.com/title/tt0080684,I
+Monty Python and the Holy Grail,巨蟒与圣杯,1975,126,8.2,490465,,7.9,16429,91 min,Adventure|Comedy|Fantasy,UK,English|French|Latin,https://movie.douban.com/subject/1294917/,https://www.imdb.com/title/tt0071853,I
+The Seventh Seal,第七封印,1957,159,8.1,158580,,8.4,38143,96 min,Drama|Fantasy,Sweden,Swedish|Latin,https://movie.douban.com/subject/1293234/,https://www.imdb.com/title/tt0050976,I
+Throne of Blood,蜘蛛巢城,1957,247,8.0,44578,,8.5,17758,110 min,Drama|History,Japan,Japanese,https://movie.douban.com/subject/1294827/,https://www.imdb.com/title/tt0050613,I
+Downfall,帝国的毁灭,2004,132,8.2,323825,,8.7,60470,156 min,Biography|Drama|History|War,Germany|Austria|Italy,French|English|German|Russian,https://movie.douban.com/subject/1309115/,https://www.imdb.com/title/tt0363163,I
+The Croods,疯狂原始人,2013,,7.2,186268,159,8.7,634916,98 min,Animation|Action|Adventure|Comedy|Family|Fantasy,USA,English,https://movie.douban.com/subject/1907966/,https://www.imdb.com/title/tt0481499,D
+Comrades Almost a Love Story,甜蜜蜜,1996,,8.1,4765,121,8.8,383026,,Drama|Romance,Hong Kong,Cantonese|Mandarin|English,https://movie.douban.com/subject/1305164/,https://www.imdb.com/title/tt0117905,D
+Joker,小丑,2019,58,8.4,840534,,8.7,730157,122 min,Crime|Drama|Thriller,USA|Canada,English,https://movie.douban.com/subject/27119724/,https://www.imdb.com/title/tt7286456,I
+About Time,时空恋旅人,2013,,7.8,288857,144,8.7,406849,123 min,Comedy|Drama|Fantasy|Romance|Sci-Fi,UK,English,https://movie.douban.com/subject/10577869/,https://www.imdb.com/title/tt2194499,D
+A Chinese Odyssey: Part Two - Cinderella,大话西游之大圣娶亲,1995,,8.0,6079,17,9.2,1120491,,Action|Adventure|Comedy|Fantasy|Romance,Hong Kong,Cantonese,https://movie.douban.com/subject/1292213/,https://www.imdb.com/title/tt0114996,D
+There Will Be Blood,血色将至,2007,148,8.1,501139,,8.3,53860,158 min,Drama,USA,English|American Sign Language,https://movie.douban.com/subject/1945780/,https://www.imdb.com/title/tt0469494,I
+Braveheart,勇敢的心,1995,78,8.3,939755,91,8.9,453016,178 min,Biography|Drama|History|War,USA,English|French|Latin|Scottish Gaelic|Italian,https://movie.douban.com/subject/1294639/,https://www.imdb.com/title/tt0112573,B
+Triangle,恐怖游轮,2009,,6.9,99325,192,8.5,583547,99 min,Fantasy|Mystery|Thriller,UK|Australia,English,https://movie.douban.com/subject/3011051/,https://www.imdb.com/title/tt1187064,D
+Double Indemnity,双重赔偿,1944,118,8.2,139052,,8.5,23751,107 min,Crime|Drama|Film-Noir|Mystery|Thriller,USA,English,https://movie.douban.com/subject/1293226/,https://www.imdb.com/title/tt0036775,I
+The Princess Bride,公主新娘,1987,244,8.0,384125,,7.0,9354,98 min,Adventure|Family|Fantasy|Romance,USA,English,https://movie.douban.com/subject/1297280/,https://www.imdb.com/title/tt0093779,I
+Big Hero 6,超能陆战队,2014,,7.8,399801,125,8.7,731218,102 min,Animation|Action|Adventure|Family|Sci-Fi,USA,English,https://movie.douban.com/subject/11026735/,https://www.imdb.com/title/tt2245084,D
+Rain Man,雨人,1988,,8.0,464024,183,8.7,315522,133 min,Drama,USA,English|Italian,https://movie.douban.com/subject/1291870/,https://www.imdb.com/title/tt0095953,D
+The Great Escape,大逃亡,1963,138,8.2,218984,,8.4,7313,172 min,Adventure|Drama|History|Thriller|War,USA,English|German|French|Russian|Spanish,https://movie.douban.com/subject/1294947/,https://www.imdb.com/title/tt0057115,I
+To Be or Not to Be,你逃我也逃,1942,194,8.1,27117,,9.2,23207,99 min,Comedy|War,USA,English|German,https://movie.douban.com/subject/1303418/,https://www.imdb.com/title/tt0035446,I
+Shutter Island,禁闭岛,2010,158,8.1,1092040,83,8.8,689899,138 min,Mystery|Thriller,USA,English|German,https://movie.douban.com/subject/2334904/,https://www.imdb.com/title/tt1130884,B
+The Secret World of Arrietty,借东西的小人阿莉埃蒂,2010,,7.6,77166,128,8.8,398458,94 min,Animation|Adventure|Family|Fantasy,Japan,Japanese,https://movie.douban.com/subject/4202302/,https://www.imdb.com/title/tt1568921,D
+Gladiator,角斗士,2000,42,8.5,1304209,,8.5,173804,155 min,Action|Adventure|Drama,USA|UK|Malta|Morocco,English,https://movie.douban.com/subject/1293530/,https://www.imdb.com/title/tt0172495,I
+The Lives of Others,窃听风暴,2006,59,8.4,348486,56,9.1,421162,137 min,Drama|Mystery|Thriller,Germany|France,German,https://movie.douban.com/subject/1900841/,https://www.imdb.com/title/tt0405094,B
+The Prestige,致命魔术,2006,47,8.5,1150757,78,8.9,624871,130 min,Drama|Mystery|Sci-Fi|Thriller,UK|USA,English,https://movie.douban.com/subject/1780330/,https://www.imdb.com/title/tt0482571,B
+Gangs of Wasseypur,瓦塞浦黑帮(上),2012,233,8.0,77801,,6.7,685,321 min,Action|Crime|Drama|Thriller,India,Hindi,https://movie.douban.com/subject/10605729/,https://www.imdb.com/title/tt1954470,I
+Monty Python's Life of Brian,万世魔星,1979,216,8.1,358286,,8.0,8731,94 min,Comedy,UK,English|Latin,https://movie.douban.com/subject/1292881/,https://www.imdb.com/title/tt0079470,I
+Silenced,熔炉,2011,,8.1,10423,18,9.3,688366,125 min,Drama,South Korea,Korean|Korean Sign Language,https://movie.douban.com/subject/5912992/,https://www.imdb.com/title/tt2070649,D
+Django Unchained,被解救的姜戈,2012,60,8.4,1313544,148,8.7,448640,165 min,Drama|Western,USA,English|German|French|Italian,https://movie.douban.com/subject/6307447/,https://www.imdb.com/title/tt1853728,B
+The General,将军号,1926,198,8.1,78458,,9.1,17187,67 min,Action|Adventure|Comedy|Drama|War,USA,English,https://movie.douban.com/subject/1292778/,https://www.imdb.com/title/tt0017925,I
+Drishyam,误杀瞒天记,2015,241,8.0,65410,,8.5,117252,163 min,Crime|Drama|Mystery|Thriller,India,Hindi,https://movie.douban.com/subject/26419637/,https://www.imdb.com/title/tt4430212,I
+12 Years a Slave,为奴十二年,2013,203,8.1,622761,,8.1,174460,134 min,Biography|Drama|History,USA|UK,English,https://movie.douban.com/subject/6879185/,https://www.imdb.com/title/tt2024544,I
+The Eagle Shooting Heroes,射雕英雄传之东成西就,1993,,7.1,2112,127,8.7,480241,100 min,Action|Comedy|Fantasy,Hong Kong,Cantonese,https://movie.douban.com/subject/1316510/,https://www.imdb.com/title/tt0108074,D
+The Gold Rush,淘金记,1925,154,8.1,97048,,9.2,36638,95 min,Adventure|Comedy|Drama|Western,USA,English|None,https://movie.douban.com/subject/1298817/,https://www.imdb.com/title/tt0015864,I
+Yi Yi,一一,2000,,8.2,19566,112,9.0,260493,173 min,Drama|Romance,Taiwan|Japan,Mandarin|Min Nan|Hokkien|English|Japanese|French,https://movie.douban.com/subject/1292434/,https://www.imdb.com/title/tt0244316,D
+Prisoners,囚徒,2013,200,8.1,578674,,8.1,82051,153 min,Crime|Drama|Mystery|Thriller,USA,English,https://movie.douban.com/subject/3592859/,https://www.imdb.com/title/tt1392214,I
+A.I. Artificial Intelligence,人工智能,2001,,7.2,285903,201,8.6,324287,146 min,Drama|Sci-Fi,USA|UK,English,https://movie.douban.com/subject/1302827/,https://www.imdb.com/title/tt0212720,D
+Four Springs,四个春天,2017,,7.4,233,248,8.9,122390,105 min,Documentary|Family|Music,China,Chinese,https://movie.douban.com/subject/27191492/,https://www.imdb.com/title/tt7124742,D
+The Lord of the Rings: The Fellowship of the Ring,指环王1：魔戒再现,2001,10,8.8,1615688,57,9.0,572505,178 min,Action|Adventure|Drama|Fantasy,New Zealand|USA,English|Sindarin,https://movie.douban.com/subject/1291571/,https://www.imdb.com/title/tt0120737,B
+Searching,网络谜踪,2018,,7.6,129964,247,8.6,392371,102 min,Drama|Mystery|Thriller,Russia|USA,English,https://movie.douban.com/subject/27615441/,https://www.imdb.com/title/tt7668870,D
+Crazy Stone,疯狂的石头,2006,,7.6,3168,199,8.5,590336,,Comedy|Crime|Drama,China|Hong Kong,Mandarin,https://movie.douban.com/subject/1862151/,https://www.imdb.com/title/tt0843270,D
+The Legend of 1900,海上钢琴师,1998,,8.1,57191,11,9.3,1266140,169 min,Drama|Music|Romance,Italy,English|French|Italian,https://movie.douban.com/subject/1292001/,https://www.imdb.com/title/tt0120731,D
+The Lord of the Rings: The Two Towers,指环王2：双塔奇兵,2002,15,8.7,1445874,54,9.1,508763,179 min,Action|Adventure|Drama|Fantasy,New Zealand|USA,English|Sindarin|Old English,https://movie.douban.com/subject/1291572/,https://www.imdb.com/title/tt0167261,B
+Mr. Donkey,驴得水,2016,,7.4,1312,239,8.3,681827,113 min,Comedy,China,Mandarin,https://movie.douban.com/subject/25921812/,https://www.imdb.com/title/tt6167014,D
+Lock Stock and Two Smoking Barrels,两杆大烟枪,1998,145,8.1,523125,61,9.1,450425,107 min,Action|Comedy|Crime,UK,English,https://movie.douban.com/subject/1293350/,https://www.imdb.com/title/tt0120735,B
+The Great Dictator,大独裁者,1940,57,8.4,196635,,9.1,52506,125 min,Comedy|Drama|War,USA,English|Esperanto,https://movie.douban.com/subject/1295646/,https://www.imdb.com/title/tt0032553,I
+The Battle of Algiers,阿尔及尔之战,1966,246,8.0,50876,,8.5,5586,121 min,Drama|War,Algeria|Italy,Arabic|French|English,https://movie.douban.com/subject/1419005/,https://www.imdb.com/title/tt0058946,I
+Unforgiven,不可饶恕,1992,134,8.2,366134,,8.5,52156,130 min,Drama|Western,USA,English,https://movie.douban.com/subject/1293566/,https://www.imdb.com/title/tt0105695,I
+Edward Scissorhands,剪刀手爱德华,1990,,7.9,436337,90,8.7,824603,105 min,Drama|Fantasy|Romance,USA,English,https://movie.douban.com/subject/1292370/,https://www.imdb.com/title/tt0099487,D
+Psycho,惊魂记,1960,41,8.5,584562,188,9.0,173233,109 min,Horror|Mystery|Thriller,USA,English,https://movie.douban.com/subject/1293181/,https://www.imdb.com/title/tt0054215,B
+Star Wars: Episode VI - Return of the Jedi,星球大战3：绝地归来,1983,85,8.3,925774,,8.4,72389,131 min,Action|Adventure|Fantasy|Sci-Fi,USA,English,https://movie.douban.com/subject/1297151/,https://www.imdb.com/title/tt0086190,I
+North by Northwest,西北偏北,1959,103,8.2,290665,,8.2,71800,136 min,Adventure|Mystery|Thriller,USA,English|French,https://movie.douban.com/subject/1295872/,https://www.imdb.com/title/tt0053125,I
+Interstellar,星际穿越,2014,31,8.5,1441100,14,9.3,1188170,169 min,Adventure|Drama|Sci-Fi|Thriller,USA|UK|Canada,English,https://movie.douban.com/subject/1889243/,https://www.imdb.com/title/tt0816692,B
+Inglourious Basterds,无耻混蛋,2009,86,8.3,1225751,216,8.6,360430,153 min,Adventure|Drama|War,Germany|USA,English|German|French|Italian,https://movie.douban.com/subject/1438652/,https://www.imdb.com/title/tt0361748,B
+The Lord of the Rings: The Return of the King,指环王3：王者无敌,2003,7,8.9,1600065,34,9.2,558351,201 min,Action|Adventure|Drama|Fantasy,New Zealand|USA,English|Quenya|Old English|Sindarin,https://movie.douban.com/subject/1291552/,https://www.imdb.com/title/tt0167260,B
+Kill Bill: Vol. 1,杀死比尔,2003,175,8.1,974625,,8.3,362565,111 min,Action|Crime|Thriller,USA|Japan,English|Japanese|French,https://movie.douban.com/subject/1291580/,https://www.imdb.com/title/tt0266697,I
+The Attorney,辩护人,2013,,7.7,4911,47,9.2,452049,127 min,Drama,South Korea,Korean,https://movie.douban.com/subject/21937445/,https://www.imdb.com/title/tt3404140,D
+The Bandit,强盗,1996,192,8.1,61581,,6.7,253,128 min,Crime|Drama|Thriller,Turkey|France|Bulgaria,Turkish,https://movie.douban.com/subject/2066486/,https://www.imdb.com/title/tt0116231,I
+Platoon,野战排,1986,215,8.1,372501,,8.2,34640,120 min,Drama|War,USA|UK,English|Vietnamese,https://movie.douban.com/subject/1293396/,https://www.imdb.com/title/tt0091763,I
+The Terminator,终结者,1984,245,8.0,782242,,8.1,161741,107 min,Action|Sci-Fi,UK|USA,English|Spanish,https://movie.douban.com/subject/1300656/,https://www.imdb.com/title/tt0088247,I
+Green Snake,青蛇,1993,,7.2,2505,215,8.5,379707,99 min,Drama|Fantasy,Hong Kong,Cantonese,https://movie.douban.com/subject/1303394/,https://www.imdb.com/title/tt0106559,D
+The Terror Live,恐怖直播,2013,,7.1,5615,132,8.8,465616,97 min,Action|Thriller,South Korea,Korean,https://movie.douban.com/subject/21360417/,https://www.imdb.com/title/tt2990738,D
+Pirates of the Caribbean: The Curse of the Black Pearl,加勒比海盗,2003,,8.0,999754,95,8.8,650088,143 min,Action|Adventure|Fantasy,USA,English,https://movie.douban.com/subject/1298070/,https://www.imdb.com/title/tt0325980,D
+Pulp Fiction,低俗小说,1994,8,8.8,1775141,79,8.9,613475,154 min,Crime|Drama,USA,English|Spanish|French,https://movie.douban.com/subject/1291832/,https://www.imdb.com/title/tt0110912,B
+Taare Zameen Par,地球上的星星,2007,84,8.3,160926,226,8.9,154395,165 min,Drama|Family,India,Hindi,https://movie.douban.com/subject/2363506/,https://www.imdb.com/title/tt0986264,B
+Let the Bullets Fly,让子弹飞,2010,,7.3,9043,65,8.8,1186566,132 min,Action|Comedy|Drama|Western,China|Hong Kong,Mandarin,https://movie.douban.com/subject/3742360/,https://www.imdb.com/title/tt1533117,D
+12 Angry Men,十二怒汉,1957,5,8.9,665863,37,9.4,337699,96 min,Crime|Drama,USA,English,https://movie.douban.com/subject/1293182/,https://www.imdb.com/title/tt0050083,B
+The Notebook,恋恋笔记本,2004,,7.8,506306,187,8.5,488655,123 min,Drama|Romance,USA,English,https://movie.douban.com/subject/1309163/,https://www.imdb.com/title/tt0332280,D
+Big Fish,大鱼,2003,,8.0,407459,123,8.8,431573,125 min,Adventure|Drama|Fantasy|Romance,USA,English|Cantonese,https://movie.douban.com/subject/1291545/,https://www.imdb.com/title/tt0319061,D
+The Invisible Guest,看不见的客人,2016,242,8.0,125518,67,8.8,863387,106 min,Crime|Drama|Mystery|Thriller,Spain,Spanish,https://movie.douban.com/subject/26580232/,https://www.imdb.com/title/tt4857264,B
+The Shining,闪灵,1980,62,8.4,866026,,8.2,324123,144 min,Drama|Horror,UK|USA,English,https://movie.douban.com/subject/1292225/,https://www.imdb.com/title/tt0081505,I
+Begin Again,再次出发之纽约遇见你,2013,,7.4,139204,238,8.6,313417,104 min,Comedy|Drama|Music|Romance,USA,English,https://movie.douban.com/subject/6874403/,https://www.imdb.com/title/tt1980929,D
+Lagaan: Once Upon a Time in India,印度往事,2001,250,8.0,102192,,7.8,3485,224 min,Adventure|Drama|Musical|Sport,India,Hindi,https://movie.douban.com/subject/2254631/,https://www.imdb.com/title/tt0169102,I
+A Chinese Ghost Story,倩女幽魂,1987,,7.5,8573,117,8.7,531822,98 min,Action|Fantasy|Horror,Hong Kong,Cantonese,https://movie.douban.com/subject/1297447/,https://www.imdb.com/title/tt0093978,D
+Mary and Max,玛丽和马克思,2009,187,8.1,160636,118,8.9,338503,92 min,Animation|Comedy|Drama|Family,Australia,English|Yiddish,https://movie.douban.com/subject/3072124/,https://www.imdb.com/title/tt0978762,B
+Gone Girl,消失的爱人,2014,188,8.1,830099,109,8.7,659616,149 min,Drama|Mystery|Thriller,USA,English,https://movie.douban.com/subject/21318488/,https://www.imdb.com/title/tt2267998,B
+The Sting,骗中骗,1973,112,8.2,235637,,8.7,40455,129 min,Comedy|Crime|Drama,USA,English,https://movie.douban.com/subject/1292269/,https://www.imdb.com/title/tt0070735,I
+A Beautiful Mind,美丽心灵,2001,140,8.2,825293,60,9.0,557094,135 min,Biography|Drama,USA,English,https://movie.douban.com/subject/1306029/,https://www.imdb.com/title/tt0268978,B
+The Pursuit of Happyness,当幸福来敲门,2006,,8.0,436074,23,9.1,1134919,117 min,Biography|Drama,USA,English|Cantonese,https://movie.douban.com/subject/1849031/,https://www.imdb.com/title/tt0454921,D
+Pride & Prejudice,傲慢与偏见,2005,,7.8,246531,139,8.6,564207,129 min,Drama|Romance,France|UK|USA,English,https://movie.douban.com/subject/1418200/,https://www.imdb.com/title/tt0414387,D
+Fight Club,搏击俱乐部,1999,11,8.8,1802261,49,9.0,645678,139 min,Drama,USA|Germany,English,https://movie.douban.com/subject/1292000/,https://www.imdb.com/title/tt0137523,B
+Ford v Ferrari,极速车王,2019,197,8.1,245299,,8.6,129051,152 min,Action|Biography|Drama|Sport,USA,English|Italian|French|Japanese,https://movie.douban.com/subject/6538866/,https://www.imdb.com/title/tt1950186,I
+Once Upon a Time in the West,西部往事,1968,49,8.5,294049,,8.7,34540,165 min,Western,Italy|USA,Italian|English|Spanish,https://movie.douban.com/subject/1293394/,https://www.imdb.com/title/tt0064116,I
+Scent of a Woman,闻香识女人,1992,,8.0,252480,46,9.1,629462,156 min,Drama,USA,English,https://movie.douban.com/subject/1298624/,https://www.imdb.com/title/tt0105323,D
+Little Forest: Winter/Spring,小森林 冬春篇,2015,,7.8,1739,110,9.0,273508,120 min,Drama,Japan,Japanese,https://movie.douban.com/subject/25814707/,https://www.imdb.com/title/tt3474602,D
+Gran Torino,老爷车,2008,180,8.1,705453,,8.6,74009,116 min,Drama,Germany|USA,English|Hmong,https://movie.douban.com/subject/3026357/,https://www.imdb.com/title/tt1205489,I
+Little Forest: Summer/Autumn,小森林 夏秋篇,2014,,7.8,2115,103,9.0,309406,111 min,Drama,Japan,Japanese,https://movie.douban.com/subject/25814705/,https://www.imdb.com/title/tt3474600,D
+Wild Tales,荒蛮故事,2014,183,8.1,169549,167,8.8,308714,122 min,Comedy|Drama|Thriller,Argentina|Spain|France|UK,Spanish,https://movie.douban.com/subject/24750126/,https://www.imdb.com/title/tt3011894,B
+The Secret in Their Eyes,谜一样的双眼,2009,144,8.2,187202,,8.3,71538,129 min,Drama|Mystery|Romance|Thriller,Argentina|Spain,Spanish,https://movie.douban.com/subject/4066125/,https://www.imdb.com/title/tt1305806,I
+Persona,假面,1966,196,8.1,98327,,8.8,17470,85 min,Drama|Thriller,Sweden,Swedish|English,https://movie.douban.com/subject/1294438/,https://www.imdb.com/title/tt0060827,I
+Before Midnight,爱在午夜降临前,2013,,7.9,135868,200,8.8,240261,109 min,Drama|Romance,USA|Greece,English|Greek|French,https://movie.douban.com/subject/10808442/,https://www.imdb.com/title/tt2209418,D
+Despicable Me,神偷奶爸,2010,,7.6,490218,136,8.6,724467,95 min,Animation|Comedy|Family|Fantasy,USA|France,English,https://movie.douban.com/subject/3287562/,https://www.imdb.com/title/tt1323594,D
+Sunset Blvd.,日落大道,1950,65,8.4,195003,,8.7,39323,110 min,Drama|Film-Noir,USA,English,https://movie.douban.com/subject/1298733/,https://www.imdb.com/title/tt0043014,I
+Saving Private Ryan,拯救大兵瑞恩,1998,26,8.5,1200116,70,9.0,472136,169 min,Drama|War,USA,English|French|German|Czech,https://movie.douban.com/subject/1292849/,https://www.imdb.com/title/tt0120815,B
+Blood Diamond,血钻,2006,,8.0,488605,221,8.7,263061,143 min,Adventure|Drama|Thriller,USA|Germany,English|Mende|Afrikaans,https://movie.douban.com/subject/1428175/,https://www.imdb.com/title/tt0450259,D
+Some Like It Hot,热情如火,1959,135,8.2,237340,,8.8,38420,121 min,Comedy|Music|Romance,USA,English,https://movie.douban.com/subject/1292574/,https://www.imdb.com/title/tt0053291,I
+Finding Nemo,海底总动员,2003,170,8.1,925589,,8.4,305530,100 min,Animation|Adventure|Comedy|Family,USA|Australia,English,https://movie.douban.com/subject/1291586/,https://www.imdb.com/title/tt0266543,I
+Gone with the Wind,乱世佳人,1939,167,8.1,283097,31,9.3,506120,238 min,Drama|History|Romance|War,USA,English,https://movie.douban.com/subject/1300267/,https://www.imdb.com/title/tt0031381,B
+Oceans,海洋,2009,,7.8,8946,206,9.1,132147,104 min,Documentary|Drama,France|Switzerland|Spain|USA|United Arab Emirates,French|English,https://movie.douban.com/subject/3443389/,https://www.imdb.com/title/tt0765128,D
+Ran,乱,1985,136,8.2,108340,,8.9,59903,162 min,Action|Drama|War,Japan|France,Japanese,https://movie.douban.com/subject/1296196/,https://www.imdb.com/title/tt0089881,I
+Million Dollar Baby,百万美元宝贝,2004,209,8.1,621643,,8.7,163115,132 min,Drama|Sport,USA,English|Irish,https://movie.douban.com/subject/1309016/,https://www.imdb.com/title/tt0405159,I
+Swades,吾土吾民,2004,248,8.0,80900,,7.6,808,210 min,Drama,India,Hindi|English,https://movie.douban.com/subject/1479526/,https://www.imdb.com/title/tt0367110,I
+Scarface,疤面煞星,1983,106,8.2,718988,,8.3,54985,170 min,Crime|Drama,USA,English|Spanish,https://movie.douban.com/subject/1292065/,https://www.imdb.com/title/tt0086250,I
+Goodfellas,好家伙,1990,17,8.6,988053,,8.4,83890,146 min,Biography|Crime|Drama,USA,English|Italian,https://movie.douban.com/subject/1292268/,https://www.imdb.com/title/tt0099685,I
+Nobody Knows,无人知晓,2004,,8.1,23989,120,9.1,202912,141 min,Drama,Japan,Japanese,https://movie.douban.com/subject/1292337/,https://www.imdb.com/title/tt0408664,D
+Children of Heaven,小鞋子,1997,133,8.2,61917,71,9.2,295331,89 min,Drama|Family|Sport,Iran,Persian,https://movie.douban.com/subject/1303021/,https://www.imdb.com/title/tt0118849,B
+The Passion of Joan of Arc,圣女贞德蒙难记,1928,221,8.0,45589,,8.7,7663,110 min,Biography|Drama|History,France,French,https://movie.douban.com/subject/1293783/,https://www.imdb.com/title/tt0019254,I
+Happy Together,春光乍泄,1997,,7.8,21445,85,8.9,462224,96 min,Drama|Romance,Hong Kong|Japan|South Korea,Mandarin|Cantonese|Spanish,https://movie.douban.com/subject/1292679/,https://www.imdb.com/title/tt0118845,D
+Se7en,七宗罪,1995,20,8.6,1397354,80,8.8,719238,127 min,Crime|Drama|Mystery|Thriller,USA,English,https://movie.douban.com/subject/1292223/,https://www.imdb.com/title/tt0114369,B
+Still Walking,步履不停,2008,,7.9,13027,231,8.8,188476,115 min,Drama,Japan,Japanese,https://movie.douban.com/subject/2222996/,https://www.imdb.com/title/tt1087578,D
+Heat,盗火线,1995,124,8.2,560532,,8.5,91534,170 min,Crime|Drama|Thriller,USA,English|Spanish,https://movie.douban.com/subject/1295686/,https://www.imdb.com/title/tt0113277,I
+The Bucket List,遗愿清单,2007,,7.4,226367,220,8.6,277439,97 min,Comedy|Drama,USA,English,https://movie.douban.com/subject/1867345/,https://www.imdb.com/title/tt0825232,D
+The Chorus,放牛班的春天,2004,,7.9,56057,16,9.3,980725,97 min,Drama|Music,France|Switzerland|Germany,French,https://movie.douban.com/subject/1291549/,https://www.imdb.com/title/tt0372824,D
+The Pianist,钢琴家,2002,37,8.5,705501,58,9.2,385112,150 min,Biography|Drama|Music|War,UK|France|Poland|Germany,English|German|Russian,https://movie.douban.com/subject/1296736/,https://www.imdb.com/title/tt0253474,B
+Catch Me If You Can,猫鼠游戏,2002,195,8.1,796682,55,9.0,601763,141 min,Biography|Crime|Drama,USA|Canada,English|French,https://movie.douban.com/subject/1305487/,https://www.imdb.com/title/tt0264464,B
+Rocky,洛奇,1976,230,8.0,504926,,8.7,41291,120 min,Drama|Sport,USA,English,https://movie.douban.com/subject/1295742/,https://www.imdb.com/title/tt0075148,I
+Dangal,摔跤吧！爸爸,2016,95,8.3,146672,33,9.0,1158422,161 min,Action|Biography|Drama|Sport,India,Hindi|English,https://movie.douban.com/subject/26387939/,https://www.imdb.com/title/tt5074352,B
+The Big Lebowski,谋杀绿脚趾,1998,189,8.1,710934,,7.7,42600,117 min,Comedy|Crime|Sport,USA|UK,English|German|Hebrew|Spanish,https://movie.douban.com/subject/1300044/,https://www.imdb.com/title/tt0118715,I
+Lord of War,战争之王,2005,,7.6,289400,227,8.6,266610,122 min,Action|Crime|Drama,USA|Germany|France,English|Ukrainian|German|Spanish|Russian|French|Arabic|Turkish,https://movie.douban.com/subject/1419936/,https://www.imdb.com/title/tt0399295,D
+WALL·E,机器人总动员,2008,63,8.4,972046,15,9.3,998038,98 min,Animation|Adventure|Family|Sci-Fi,USA,English,https://movie.douban.com/subject/2131459/,https://www.imdb.com/title/tt0910970,B
+The Godfather,教父,1972,2,9.1,1567075,22,9.3,687920,175 min,Crime|Drama,USA,English|Italian|Latin,https://movie.douban.com/subject/1291841/,https://www.imdb.com/title/tt0068646,B
+Coco,寻梦环游记,2017,76,8.3,349599,29,9.1,1131185,105 min,Animation|Adventure|Family|Fantasy|Music|Mystery,USA,English|Spanish,https://movie.douban.com/subject/20495023/,https://www.imdb.com/title/tt2380307,B
+A Little Thing Called Love,初恋这件小事,2010,,7.6,4492,204,8.4,779319,,Comedy|Romance,Thailand,Thai,https://movie.douban.com/subject/4739952/,https://www.imdb.com/title/tt1859438,D
+Before Sunset,爱在日落黄昏时,2004,237,8.0,227788,131,8.8,371065,80 min,Drama|Romance,USA|France,English|French,https://movie.douban.com/subject/1291990/,https://www.imdb.com/title/tt0381681,B
+Apocalypse Now,现代启示录,1979,54,8.4,589097,,8.4,75963,147 min,Drama|Mystery|War,USA,English|French|Vietnamese,https://movie.douban.com/subject/1292260/,https://www.imdb.com/title/tt0078788,I
+Amores Perros,爱情是狗娘,2000,227,8.0,218692,,8.2,42887,154 min,Drama|Thriller,Mexico,Spanish,https://movie.douban.com/subject/1292216/,https://www.imdb.com/title/tt0245712,I
+Dallas Buyers Club,达拉斯买家俱乐部,2013,,8.0,428904,163,8.8,331795,117 min,Biography|Drama,USA,English|Japanese,https://movie.douban.com/subject/1793929/,https://www.imdb.com/title/tt0790636,D
+Babam ve Oglum,我的父亲，我的儿子,2005,152,8.1,75757,,9.0,15843,112 min,Drama|Family,Turkey,Turkish,https://movie.douban.com/subject/1793200/,https://www.imdb.com/title/tt0476735,I
+Dead Poets Society,死亡诗社,1989,214,8.1,409538,51,9.1,512861,128 min,Comedy|Drama,USA,English|Latin,https://movie.douban.com/subject/1291548/,https://www.imdb.com/title/tt0097165,B
+Wonder,奇迹男孩,2017,,8.0,133169,191,8.6,428000,113 min,Drama|Family,USA|Hong Kong|Canada,English,https://movie.douban.com/subject/26787574/,https://www.imdb.com/title/tt2543472,D
+Harry Potter and the Chamber of Secrets,哈利·波特与密室,2002,,7.4,534081,172,8.6,434019,161 min,Adventure|Family|Fantasy|Mystery,UK|USA|Germany,English,https://movie.douban.com/subject/1296996/,https://www.imdb.com/title/tt0295297,D
+The Matrix,黑客帝国,1999,16,8.6,1627222,59,9.0,576570,136 min,Action|Sci-Fi,USA,English,https://movie.douban.com/subject/1291843/,https://www.imdb.com/title/tt0133093,B
+Deep in the Heart,心迷宫,2014,,7.7,1334,162,8.7,361872,119 min,Drama|Mystery,China,Mandarin,https://movie.douban.com/subject/25917973/,https://www.imdb.com/title/tt4078856,D
+The Curious Case of Benjamin Button,本杰明·巴顿奇事,2008,,7.8,574321,64,8.9,726278,166 min,Drama|Fantasy|Romance,USA,English|Russian|French,https://movie.douban.com/subject/1485260/,https://www.imdb.com/title/tt0421715,D
+Whiplash,爆裂鼓手,2014,46,8.5,687721,174,8.7,410583,106 min,Drama|Music,USA,English,https://movie.douban.com/subject/25773932/,https://www.imdb.com/title/tt2582802,B

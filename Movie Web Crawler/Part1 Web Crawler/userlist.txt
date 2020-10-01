@@ -1,0 +1,249 @@
+1,肖申克的救赎,The Shawshank Redemption,9.7,2101897,https://movie.douban.com/subject/1292052/,https://www.imdb.com/title/tt0111161
+2,教父,The Godfather,9.3,686240,https://movie.douban.com/subject/1291841/,https://www.imdb.com/title/tt0068646
+3,教父2,The Godfather: Part Ⅱ,9.2,380504,https://movie.douban.com/subject/1299131/,https://www.imdb.com/title/tt0071562
+4,蝙蝠侠：黑暗骑士,The Dark Knight,9.2,757772,https://movie.douban.com/subject/1851857/,https://www.imdb.com/title/tt0468569
+5,十二怒汉,12 Angry Men,9.4,336836,https://movie.douban.com/subject/1293182/,https://www.imdb.com/title/tt0050083
+6,辛德勒的名单,Schindler's List,9.5,808069,https://movie.douban.com/subject/1295124/,https://www.imdb.com/title/tt0108052
+7,指环王3：王者无敌,The Lord of the Rings: The Return of the King,9.2,557058,https://movie.douban.com/subject/1291552/,https://www.imdb.com/title/tt0167260
+8,低俗小说,Pulp Fiction,8.8,612305,https://movie.douban.com/subject/1291832/,https://www.imdb.com/title/tt0110912
+9,黄金三镖客,Il buono il brutto il cattivo.,9.2,86958,https://movie.douban.com/subject/1401118/,https://www.imdb.com/title/tt0060196
+10,指环王1：魔戒再现,The Lord of the Rings: The Fellowship of the Ring,9.0,571245,https://movie.douban.com/subject/1291571/,https://www.imdb.com/title/tt0120737
+11,搏击俱乐部,Fight Club,9.0,644686,https://movie.douban.com/subject/1292000/,https://www.imdb.com/title/tt0137523
+12,阿甘正传,Forrest Gump,9.5,1588570,https://movie.douban.com/subject/1292720/,https://www.imdb.com/title/tt0109830
+13,盗梦空间,Inception,9.3,1514870,https://movie.douban.com/subject/3541415/,https://www.imdb.com/title/tt1375666
+14,星球大战2：帝国反击战,Star Wars: Episode V - The Empire Strikes Back,8.4,79267,https://movie.douban.com/subject/1296528/,https://www.imdb.com/title/tt0080684
+15,指环王2：双塔奇兵,The Lord of the Rings: The Two Towers,9.1,507668,https://movie.douban.com/subject/1291572/,https://www.imdb.com/title/tt0167261
+16,黑客帝国,The Matrix,9.0,574951,https://movie.douban.com/subject/1291843/,https://www.imdb.com/title/tt0133093
+17,好家伙,Goodfellas,8.4,83890,https://movie.douban.com/subject/1292268/,https://www.imdb.com/title/tt0099685
+18,飞越疯人院,One Flew Over the Cuckoo's Nest,9.1,439137,https://movie.douban.com/subject/1292224/,https://www.imdb.com/title/tt0073486
+19,七武士,七人の侍,9.2,138025,https://movie.douban.com/subject/1295399/,https://www.imdb.com/title/tt0047478
+20,七宗罪,Se7en,8.8,717840,https://movie.douban.com/subject/1292223/,https://www.imdb.com/title/tt0114369
+21,美丽人生,La vita è bella,9.5,992263,https://movie.douban.com/subject/1292063/,https://www.imdb.com/title/tt0118799
+22,上帝之城,Cidade de Deus,8.9,234452,https://movie.douban.com/subject/1292208/,https://www.imdb.com/title/tt0317248
+23,沉默的羔羊,The Silence of the Lambs,8.8,619534,https://movie.douban.com/subject/1293544/,https://www.imdb.com/title/tt0102926
+24,生活多美好,It's a Wonderful Life,9.3,61572,https://movie.douban.com/subject/1293749/,https://www.imdb.com/title/tt0038650
+25,星球大战,Star Wars,8.4,103429,https://movie.douban.com/subject/1293838/,https://www.imdb.com/title/tt0076759
+26,汉密尔顿,Hamilton,9.5,32691,https://movie.douban.com/subject/34961898/,https://www.imdb.com/title/tt8503618
+27,拯救大兵瑞恩,Saving Private Ryan,9.0,470815,https://movie.douban.com/subject/1292849/,https://www.imdb.com/title/tt0120815
+28,千与千寻,千と千尋の神隠し,9.4,1651665,https://movie.douban.com/subject/1291561/,https://www.imdb.com/title/tt0245429
+29,寄生虫,기생충,8.7,996960,https://movie.douban.com/subject/27010768/,https://www.imdb.com/title/tt6751668
+30,绿里奇迹,The Green Mile,8.8,207055,https://movie.douban.com/subject/1300374/,https://www.imdb.com/title/tt0120689
+31,星际穿越,Interstellar,9.3,1166589,https://movie.douban.com/subject/1889243/,https://www.imdb.com/title/tt0816692
+32,这个杀手不太冷,Léon,9.4,1776324,https://movie.douban.com/subject/1295644/,https://www.imdb.com/title/tt0110413
+33,切腹,,9.3,25360,https://movie.douban.com/subject/1304920/,https://www.imdb.com/title/tt0056058
+34,非常嫌疑犯,The Usual Suspects,8.6,198569,https://movie.douban.com/subject/1292214/,https://www.imdb.com/title/tt0114814
+35,狮子王,The Lion King,9.0,594161,https://movie.douban.com/subject/1301753/,https://www.imdb.com/title/tt0110357
+36,回到未来,Back to the Future,8.7,141157,https://movie.douban.com/subject/1300555/,https://www.imdb.com/title/tt0088763
+37,钢琴家,The Pianist,9.2,383949,https://movie.douban.com/subject/1296736/,https://www.imdb.com/title/tt0253474
+38,终结者2：审判日,Terminator 2: Judgment Day,8.7,259159,https://movie.douban.com/subject/1291844/,https://www.imdb.com/title/tt0103064
+39,美国X档案,American History X,8.5,79237,https://movie.douban.com/subject/1293527/,https://www.imdb.com/title/tt0120586
+40,摩登时代,Modern Times,9.3,205184,https://movie.douban.com/subject/1294371/,https://www.imdb.com/title/tt0027977
+41,惊魂记,Psycho,9.0,172545,https://movie.douban.com/subject/1293181/,https://www.imdb.com/title/tt0054215
+42,角斗士,Gladiator,8.5,173804,https://movie.douban.com/subject/1293530/,https://www.imdb.com/title/tt0172495
+43,城市之光,City Lights,9.3,92773,https://movie.douban.com/subject/1293908/,https://www.imdb.com/title/tt0021749
+44,无间道风云,The Departed,7.3,106890,https://movie.douban.com/subject/1315316/,https://www.imdb.com/title/tt0407887
+45,触不可及,Intouchables,9.2,732664,https://movie.douban.com/subject/6786002/,https://www.imdb.com/title/tt1675434
+46,爆裂鼓手,Whiplash,8.7,409532,https://movie.douban.com/subject/25773932/,https://www.imdb.com/title/tt2582802
+47,致命魔术,The Prestige,8.9,623206,https://movie.douban.com/subject/1780330/,https://www.imdb.com/title/tt0482571
+48,萤火虫之墓,火垂るの墓,8.7,326767,https://movie.douban.com/subject/1293318/,https://www.imdb.com/title/tt0095327
+49,西部往事,C'era una volta il West,8.7,34540,https://movie.douban.com/subject/1293394/,https://www.imdb.com/title/tt0064116
+50,卡萨布兰卡,Casablanca,8.6,179399,https://movie.douban.com/subject/1296753/,https://www.imdb.com/title/tt0034583
+51,天堂电影院,Nuovo Cinema Paradiso,9.2,484693,https://movie.douban.com/subject/1291828/,https://www.imdb.com/title/tt0095765
+52,后窗,Rear Window,8.6,123789,https://movie.douban.com/subject/1299080/,https://www.imdb.com/title/tt0047396
+53,异形,Alien,8.2,168301,https://movie.douban.com/subject/1300868/,https://www.imdb.com/title/tt0078748
+54,现代启示录,Apocalypse Now,8.4,75963,https://movie.douban.com/subject/1292260/,https://www.imdb.com/title/tt0078788
+55,记忆碎片,Memento,8.6,450929,https://movie.douban.com/subject/1304447/,https://www.imdb.com/title/tt0209144
+56,夺宝奇兵,Raiders of the Lost Ark,7.9,70245,https://movie.douban.com/subject/1296717/,https://www.imdb.com/title/tt0082971
+57,大独裁者,The Great Dictator,9.1,52506,https://movie.douban.com/subject/1295646/,https://www.imdb.com/title/tt0032553
+58,小丑,Joker,8.7,730157,https://movie.douban.com/subject/27119724/,https://www.imdb.com/title/tt7286456
+59,窃听风暴,Das Leben der Anderen,9.1,420379,https://movie.douban.com/subject/1900841/,https://www.imdb.com/title/tt0405094
+60,被解救的姜戈,Django Unchained,8.7,447748,https://movie.douban.com/subject/6307447/,https://www.imdb.com/title/tt1853728
+61,光荣之路,Paths of Glory,9.1,32984,https://movie.douban.com/subject/1292969/,https://www.imdb.com/title/tt0050825
+62,闪灵,The Shining,8.2,324123,https://movie.douban.com/subject/1292225/,https://www.imdb.com/title/tt0081505
+63,机器人总动员,WALL·E,9.3,995815,https://movie.douban.com/subject/2131459/,https://www.imdb.com/title/tt0910970
+64,复仇者联盟3：无限战争,Avengers: Infinity War,8.1,668232,https://movie.douban.com/subject/24773958/,https://www.imdb.com/title/tt4154756
+65,日落大道,Sunset Blvd.,8.7,39323,https://movie.douban.com/subject/1298733/,https://www.imdb.com/title/tt0043014
+66,幽灵公主,もののけ姫,8.9,402172,https://movie.douban.com/subject/1297359/,https://www.imdb.com/title/tt0119698
+67,蜘蛛侠：平行宇宙,Spider-Man: Into the Spider-Verse,8.6,483114,https://movie.douban.com/subject/26374197/,https://www.imdb.com/title/tt4633694
+68,控方证人,Witness for the Prosecution,9.6,300128,https://movie.douban.com/subject/1296141/,https://www.imdb.com/title/tt0051201
+69,奇爱博士,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.8,65452,https://movie.douban.com/subject/1322848/,https://www.imdb.com/title/tt0057012
+70,老男孩,올드보이,8.2,223531,https://movie.douban.com/subject/1308865/,https://www.imdb.com/title/tt0364569
+71,蝙蝠侠：黑暗骑士崛起,The Dark Knight Rises,8.8,522567,https://movie.douban.com/subject/3395373/,https://www.imdb.com/title/tt1345836
+72,美国往事,Once Upon a Time in America,9.2,307595,https://movie.douban.com/subject/1292262/,https://www.imdb.com/title/tt0087843
+73,复仇者联盟4：终局之战,Avengers: Endgame,8.5,861291,https://movie.douban.com/subject/26100958/,https://www.imdb.com/title/tt4154796
+74,异形2,Aliens,8.0,107594,https://movie.douban.com/subject/1293792/,https://www.imdb.com/title/tt0090605
+75,你的名字。,君の名は。,8.4,1015757,https://movie.douban.com/subject/26683290/,https://www.imdb.com/title/tt5311514
+76,寻梦环游记,Coco,9.1,1126764,https://movie.douban.com/subject/20495023/,https://www.imdb.com/title/tt2380307
+77,美国丽人,American Beauty,8.5,271637,https://movie.douban.com/subject/1292062/,https://www.imdb.com/title/tt0169547
+78,勇敢的心,Braveheart,8.9,452389,https://movie.douban.com/subject/1294639/,https://www.imdb.com/title/tt0112573
+79,三傻大闹宝莱坞,3 Idiots,9.2,1406214,https://movie.douban.com/subject/3793023/,https://www.imdb.com/title/tt1187043
+80,从海底出击,Das Boot,9.0,27317,https://movie.douban.com/subject/1293909/,https://www.imdb.com/title/tt0082096
+81,玩具总动员,Toy Story,8.4,269528,https://movie.douban.com/subject/1291575/,https://www.imdb.com/title/tt0114709
+82,天国与地狱,天国と地獄,8.6,8272,https://movie.douban.com/subject/1293663/,https://www.imdb.com/title/tt0057565
+83,莫扎特传,Amadeus,8.7,83243,https://movie.douban.com/subject/1293399/,https://www.imdb.com/title/tt0086879
+84,地球上的星星,Taare Zameen Par,8.9,154018,https://movie.douban.com/subject/2363506/,https://www.imdb.com/title/tt0986264
+85,星球大战3：绝地归来,Star Wars: Episode VI - Return of the Jedi,8.4,72389,https://movie.douban.com/subject/1297151/,https://www.imdb.com/title/tt0086190
+86,无耻混蛋,Inglourious Basterds,8.6,359812,https://movie.douban.com/subject/1438652/,https://www.imdb.com/title/tt0361748
+87,落水狗,Reservoir Dogs,8.4,157532,https://movie.douban.com/subject/1299603/,https://www.imdb.com/title/tt0105236
+88,心灵捕手,Good Will Hunting,8.9,514696,https://movie.douban.com/subject/1292656/,https://www.imdb.com/title/tt0119217
+89,何以为家,كفرناحوم,9.1,695759,https://movie.douban.com/subject/30170448/,https://www.imdb.com/title/tt8267604
+90,2001太空漫游,2001: A Space Odyssey,8.8,207509,https://movie.douban.com/subject/1292226/,https://www.imdb.com/title/tt0062622
+91,梦之安魂曲,Requiem for a Dream,8.7,164976,https://movie.douban.com/subject/1292270/,https://www.imdb.com/title/tt0180093
+92,迷魂记,Vertigo,8.6,75958,https://movie.douban.com/subject/1297294/,https://www.imdb.com/title/tt0052357
+93,1917,,8.5,210006,https://movie.douban.com/subject/30252495/,https://www.imdb.com/title/tt8579674
+94,M就是凶手,M - Eine Stadt sucht einen Mörder,8.3,22538,https://movie.douban.com/subject/1293381/,https://www.imdb.com/title/tt0022100
+95,摔跤吧！爸爸,Dangal,9.0,1155214,https://movie.douban.com/subject/26387939/,https://www.imdb.com/title/tt5074352
+96,暖暖内含光,Eternal Sunshine of the Spotless Mind,8.5,194362,https://movie.douban.com/subject/1308777/,https://www.imdb.com/title/tt0338013
+97,狩猎,Jagten,9.1,262218,https://movie.douban.com/subject/6985810/,https://www.imdb.com/title/tt2106476
+98,公民凯恩,Citizen Kane,8.7,78437,https://movie.douban.com/subject/1292288/,https://www.imdb.com/title/tt0033467
+99,全金属外壳,Full Metal Jacket,8.6,97090,https://movie.douban.com/subject/1300055/,https://www.imdb.com/title/tt0093058
+100,偷自行车的人,Ladri di biciclette,9.0,65747,https://movie.douban.com/subject/1295873/,https://www.imdb.com/title/tt0040522
+101,西北偏北,North by Northwest,8.2,71800,https://movie.douban.com/subject/1295872/,https://www.imdb.com/title/tt0053125
+102,发条橙,A Clockwork Orange,8.6,285953,https://movie.douban.com/subject/1292233/,https://www.imdb.com/title/tt0066921
+103,寻子遇仙记,The Kid,9.2,26137,https://movie.douban.com/subject/1293270/,https://www.imdb.com/title/tt0012349
+104,偷拐抢骗,Snatch,8.5,156293,https://movie.douban.com/subject/1301171/,https://www.imdb.com/title/tt0208092
+105,雨中曲,Singin' in the Rain,9.0,152446,https://movie.douban.com/subject/1293460/,https://www.imdb.com/title/tt0045152
+106,疤面煞星,Scarface,8.3,54985,https://movie.douban.com/subject/1292065/,https://www.imdb.com/title/tt0086250
+107,出租车司机,Taxi Driver,8.5,154777,https://movie.douban.com/subject/1292222/,https://www.imdb.com/title/tt0075314
+108,天使爱美丽,Le fabuleux destin d'Amélie Poulain,8.7,784388,https://movie.douban.com/subject/1292215/,https://www.imdb.com/title/tt0211915
+109,阿拉伯的劳伦斯,Lawrence of Arabia,8.7,36068,https://movie.douban.com/subject/1292349/,https://www.imdb.com/title/tt0056172
+110,玩具总动员3,Toy Story 3,8.8,367369,https://movie.douban.com/subject/1858711/,https://www.imdb.com/title/tt0435761
+111,骗中骗,The Sting,8.7,40455,https://movie.douban.com/subject/1292269/,https://www.imdb.com/title/tt0070735
+112,生之欲,生きる,9.1,23336,https://movie.douban.com/subject/1293847/,https://www.imdb.com/title/tt0044741
+113,大都会,Metropolis,9.0,27587,https://movie.douban.com/subject/1298107/,https://www.imdb.com/title/tt0017136
+114,一次别离,جدایی نادر از سیمین,8.7,200043,https://movie.douban.com/subject/5964718/,https://www.imdb.com/title/tt1832382
+115,黄昏双镖客,Per qualche dollaro in più,8.8,29384,https://movie.douban.com/subject/1295586/,https://www.imdb.com/title/tt0059578
+116,焦土之城,Incendies,8.6,30841,https://movie.douban.com/subject/4935242/,https://www.imdb.com/title/tt1255953
+117,桃色公寓,The Apartment,8.7,28295,https://movie.douban.com/subject/1394218/,https://www.imdb.com/title/tt0053604
+118,双重赔偿,Double Indemnity,8.5,23751,https://movie.douban.com/subject/1293226/,https://www.imdb.com/title/tt0036775
+119,杀死一只知更鸟,To Kill a Mockingbird,8.6,42378,https://movie.douban.com/subject/1297991/,https://www.imdb.com/title/tt0056592
+120,夺宝奇兵3,Indiana Jones and the Last Crusade,8.2,52233,https://movie.douban.com/subject/1293471/,https://www.imdb.com/title/tt0097576
+121,飞屋环游记,Up,9.0,985437,https://movie.douban.com/subject/2129039/,https://www.imdb.com/title/tt1049413
+122,快乐的阿南,Anand,7.6,95,https://movie.douban.com/subject/2330207/,https://www.imdb.com/title/tt0066763
+123,自己去看,Иди и смотри,8.6,4462,https://movie.douban.com/subject/1422186/,https://www.imdb.com/title/tt0091251
+124,洛城机密,L.A. Confidential,8.7,110024,https://movie.douban.com/subject/1292348/,https://www.imdb.com/title/tt0119488
+125,盗火线,Heat,8.5,91534,https://movie.douban.com/subject/1295686/,https://www.imdb.com/title/tt0113277
+126,巨蟒与圣杯,Monty Python and the Holy Grail,7.9,16429,https://movie.douban.com/subject/1294917/,https://www.imdb.com/title/tt0071853
+127,虎胆龙威,Die Hard,8.2,67290,https://movie.douban.com/subject/1292697/,https://www.imdb.com/title/tt0095016
+128,罗生门,羅生門,8.8,224795,https://movie.douban.com/subject/1291879/,https://www.imdb.com/title/tt0042876
+129,用心棒,,8.9,28856,https://movie.douban.com/subject/1292515/,https://www.imdb.com/title/tt0055630
+130,蝙蝠侠：侠影之谜,Batman Begins,8.5,274914,https://movie.douban.com/subject/1309069/,https://www.imdb.com/title/tt0372784
+131,绿皮书,Green Book,8.9,1120756,https://movie.douban.com/subject/27060077/,https://www.imdb.com/title/tt6966692
+132,帝国的毁灭,Der Untergang,8.7,60470,https://movie.douban.com/subject/1309115/,https://www.imdb.com/title/tt0363163
+133,小鞋子,بچههای آسمان,9.2,294426,https://movie.douban.com/subject/1303021/,https://www.imdb.com/title/tt0118849
+134,不可饶恕,Unforgiven,8.5,52156,https://movie.douban.com/subject/1293566/,https://www.imdb.com/title/tt0105695
+135,热情如火,Some Like It Hot,8.8,38420,https://movie.douban.com/subject/1292574/,https://www.imdb.com/title/tt0053291
+136,乱,,8.9,59903,https://movie.douban.com/subject/1296196/,https://www.imdb.com/title/tt0089881
+137,哈尔的移动城堡,ハウルの動く城,9.1,721410,https://movie.douban.com/subject/1308807/,https://www.imdb.com/title/tt0347149
+138,大逃亡,The Great Escape,8.4,7313,https://movie.douban.com/subject/1294947/,https://www.imdb.com/title/tt0057115
+139,美丽心灵,A Beautiful Mind,9.0,555859,https://movie.douban.com/subject/1306029/,https://www.imdb.com/title/tt0268978
+140,彗星美人,All About Eve,8.6,17622,https://movie.douban.com/subject/1401385/,https://www.imdb.com/title/tt0042192
+141,赌城风云,Casino,8.3,31060,https://movie.douban.com/subject/1299799/,https://www.imdb.com/title/tt0112641
+142,潘神的迷宫,El laberinto del fauno,7.8,172720,https://movie.douban.com/subject/1767042/,https://www.imdb.com/title/tt0457430
+143,华尔街之狼,The Wolf of Wall Street,7.9,276111,https://movie.douban.com/subject/2997076/,https://www.imdb.com/title/tt0993846
+144,谜一样的双眼,El secreto de sus ojos,8.3,71538,https://movie.douban.com/subject/4066125/,https://www.imdb.com/title/tt1305806
+145,两杆大烟枪,Lock Stock and Two Smoking Barrels,9.1,449512,https://movie.douban.com/subject/1293350/,https://www.imdb.com/title/tt0120735
+146,龙猫,となりのトトロ,9.2,939829,https://movie.douban.com/subject/1291560/,https://www.imdb.com/title/tt0096283
+147,愤怒的公牛,Raging Bull,8.4,42192,https://movie.douban.com/subject/1293155/,https://www.imdb.com/title/tt0081398
+148,三块广告牌,Three Billboards Outside Ebbing Missouri,8.7,618238,https://movie.douban.com/subject/26611804/,https://www.imdb.com/title/tt5027774
+149,碧血金沙,The Treasure of the Sierra Madre,8.6,6025,https://movie.douban.com/subject/1292516/,https://www.imdb.com/title/tt0040897
+150,纽伦堡的审判,Judgment at Nuremberg,9.1,5458,https://movie.douban.com/subject/1292589/,https://www.imdb.com/title/tt0055031
+151,血色将至,There Will Be Blood,8.3,53860,https://movie.douban.com/subject/1945780/,https://www.imdb.com/title/tt0469494
+152,我的父亲，我的儿子,Babam ve Oğlum,9.0,15843,https://movie.douban.com/subject/1793200/,https://www.imdb.com/title/tt0476735
+153,电话谋杀案,Dial M for Murder,8.8,58551,https://movie.douban.com/subject/1301231/,https://www.imdb.com/title/tt0046912
+154,淘金记,The Gold Rush,9.2,36638,https://movie.douban.com/subject/1298817/,https://www.imdb.com/title/tt0015864
+155,唐人街,Chinatown,8.4,41102,https://movie.douban.com/subject/1293889/,https://www.imdb.com/title/tt0071315
+157,老无所依,No Country for Old Men,8.2,213806,https://movie.douban.com/subject/1857099/,https://www.imdb.com/title/tt0477348
+158,禁闭岛,Shutter Island,8.8,688234,https://movie.douban.com/subject/2334904/,https://www.imdb.com/title/tt1130884
+159,第七封印,Det sjunde inseglet,8.4,38143,https://movie.douban.com/subject/1293234/,https://www.imdb.com/title/tt0050976
+160,头脑特工队,Inside Out,8.7,428757,https://movie.douban.com/subject/10533913/,https://www.imdb.com/title/tt2096673
+161,勇士,Warrior,8.9,126770,https://movie.douban.com/subject/3217169/,https://www.imdb.com/title/tt1291584
+162,象人,The Elephant Man,8.2,19778,https://movie.douban.com/subject/1293200/,https://www.imdb.com/title/tt0080678
+163,猜火车,Trainspotting,8.5,343251,https://movie.douban.com/subject/1292528/,https://www.imdb.com/title/tt0117951
+164,第六感,The Sixth Sense,8.9,399739,https://movie.douban.com/subject/1297630/,https://www.imdb.com/title/tt0167404
+165,怪形,The Thing,7.9,31173,https://movie.douban.com/subject/1296794/,https://www.imdb.com/title/tt0084787
+166,侏罗纪公园,Jurassic Park,8.2,248769,https://movie.douban.com/subject/1292523/,https://www.imdb.com/title/tt0107290
+167,乱世佳人,Gone with the Wind,9.3,505039,https://movie.douban.com/subject/1300267/,https://www.imdb.com/title/tt0031381
+168,野草莓,Smultronstället,8.7,41612,https://movie.douban.com/subject/1293071/,https://www.imdb.com/title/tt0050986
+169,银翼杀手,Blade Runner,8.4,165649,https://movie.douban.com/subject/1291839/,https://www.imdb.com/title/tt0083658
+170,海底总动员,Finding Nemo,8.4,305530,https://movie.douban.com/subject/1291586/,https://www.imdb.com/title/tt0266543
+171,房间,Room,8.8,294493,https://movie.douban.com/subject/25724855/,https://www.imdb.com/title/tt3170832
+172,楚门的世界,The Truman Show,9.3,1137279,https://movie.douban.com/subject/1292064/,https://www.imdb.com/title/tt0120382
+173,桂河大桥,The Bridge on the River Kwai,8.4,18997,https://movie.douban.com/subject/1294958/,https://www.imdb.com/title/tt0050212
+174,潜行者,Сталкер,8.8,15387,https://movie.douban.com/subject/1295656/,https://www.imdb.com/title/tt0079944
+175,杀死比尔,Kill Bill: Vol. 1,8.3,362565,https://movie.douban.com/subject/1291580/,https://www.imdb.com/title/tt0266697
+176,冰血暴,Fargo,8.0,63433,https://movie.douban.com/subject/1292067/,https://www.imdb.com/title/tt0116282
+177,第三人,The Third Man,8.3,15735,https://movie.douban.com/subject/1295451/,https://www.imdb.com/title/tt0041959
+178,码头风云,On the Waterfront,7.9,10876,https://movie.douban.com/subject/1292521/,https://www.imdb.com/title/tt0047296
+179,老爷车,Gran Torino,8.6,74009,https://movie.douban.com/subject/3026357/,https://www.imdb.com/title/tt1205489
+180,东京物语,東京物語,9.2,94037,https://movie.douban.com/subject/1291568/,https://www.imdb.com/title/tt0046438
+181,杀人回忆,살인의 추억,8.8,482370,https://movie.douban.com/subject/1300299/,https://www.imdb.com/title/tt0353969
+182,猎鹿人,The Deer Hunter,8.4,27727,https://movie.douban.com/subject/1292403/,https://www.imdb.com/title/tt0077416
+183,荒蛮故事,Relatos salvajes,8.8,307995,https://movie.douban.com/subject/24750126/,https://www.imdb.com/title/tt3011894
+184,调音师,Andhadhun,8.3,695658,https://movie.douban.com/subject/30334073/,https://www.imdb.com/title/tt8108198
+185,克劳斯：圣诞节的秘密,Klaus,8.7,29115,https://movie.douban.com/subject/26858510/,https://www.imdb.com/title/tt4729430
+186,因父之名,In the Name of the Father,8.8,30773,https://movie.douban.com/subject/1297009/,https://www.imdb.com/title/tt0107207
+187,玛丽和马克思,Mary and Max,8.9,337992,https://movie.douban.com/subject/3072124/,https://www.imdb.com/title/tt0978762
+188,谋杀绿脚趾,The Big Lebowski,7.7,42600,https://movie.douban.com/subject/1300044/,https://www.imdb.com/title/tt0118715
+189,消失的爱人,Gone Girl,8.7,658106,https://movie.douban.com/subject/21318488/,https://www.imdb.com/title/tt2267998
+190,强盗,Eskiya,6.7,253,https://movie.douban.com/subject/2066486/,https://www.imdb.com/title/tt0116231
+191,血战钢锯岭,Hacksaw Ridge,8.7,590709,https://movie.douban.com/subject/26325320/,https://www.imdb.com/title/tt2119532
+192,布达佩斯大饭店,The Grand Budapest Hotel,8.8,648668,https://movie.douban.com/subject/11525673/,https://www.imdb.com/title/tt2278388
+193,爱在黎明破晓前,Before Sunrise,8.8,437959,https://movie.douban.com/subject/1296339/,https://www.imdb.com/title/tt0112471
+194,猫鼠游戏,Catch Me If You Can,9.0,599399,https://movie.douban.com/subject/1305487/,https://www.imdb.com/title/tt0264464
+195,假面,Persona,8.8,17470,https://movie.douban.com/subject/1294438/,https://www.imdb.com/title/tt0060827
+196,你逃我也逃,To Be or Not to Be,9.2,23207,https://movie.douban.com/subject/1303418/,https://www.imdb.com/title/tt0035446
+197,极速车王,Ford v Ferrari,8.6,129051,https://movie.douban.com/subject/6538866/,https://www.imdb.com/title/tt1950186
+198,将军号,The General,9.1,17187,https://movie.douban.com/subject/1292778/,https://www.imdb.com/title/tt0017925
+199,驯龙高手,How to Train Your Dragon,8.7,560862,https://movie.douban.com/subject/2353023/,https://www.imdb.com/title/tt0892769
+200,囚徒,Prisoners,8.1,82051,https://movie.douban.com/subject/3592859/,https://www.imdb.com/title/tt1392214
+201,福尔摩斯二世,Sherlock Jr.,9.5,13028,https://movie.douban.com/subject/1303408/,https://www.imdb.com/title/tt0015324
+202,史密斯先生到华盛顿,Mr. Smith Goes to Washington,8.7,8217,https://movie.douban.com/subject/1297127/,https://www.imdb.com/title/tt0031679
+203,为奴十二年,12 Years a Slave,8.1,174460,https://movie.douban.com/subject/6879185/,https://www.imdb.com/title/tt2024544
+204,巴里·林登,Barry Lyndon,8.8,25891,https://movie.douban.com/subject/1292472/,https://www.imdb.com/title/tt0072684
+205,疯狂的麦克斯4：狂暴之路,Mad Max: Fury Road,8.6,378349,https://movie.douban.com/subject/3592854/,https://www.imdb.com/title/tt1392190
+206,伴我同行,Stand by Me,8.9,83967,https://movie.douban.com/subject/1292925/,https://www.imdb.com/title/tt0092005
+207,电视台风云,Network,8.4,8936,https://movie.douban.com/subject/1297531/,https://www.imdb.com/title/tt0074958
+208,铁窗喋血,Cool Hand Luke,8.1,4549,https://movie.douban.com/subject/1293698/,https://www.imdb.com/title/tt0061512
+209,百万美元宝贝,Million Dollar Baby,8.7,163115,https://movie.douban.com/subject/1309016/,https://www.imdb.com/title/tt0405159
+210,荒野生存,Into the Wild,8.6,177113,https://movie.douban.com/subject/1905462/,https://www.imdb.com/title/tt0758758
+211,忠犬八公的故事,Hachi: A Dog's Tale,9.4,1054600,https://movie.douban.com/subject/3011091/,https://www.imdb.com/title/tt1028532
+212,恐惧的代价,Le salaire de la peur,8.7,8433,https://movie.douban.com/subject/1299932/,https://www.imdb.com/title/tt0046268
+213,宾虚,Ben-Hur,8.6,26902,https://movie.douban.com/subject/1293150/,https://www.imdb.com/title/tt0052618
+214,死亡诗社,Dead Poets Society,9.1,511806,https://movie.douban.com/subject/1291548/,https://www.imdb.com/title/tt0097165
+215,野战排,Platoon,8.2,34640,https://movie.douban.com/subject/1293396/,https://www.imdb.com/title/tt0091763
+216,万世魔星,Life of Brian,8.0,8731,https://movie.douban.com/subject/1292881/,https://www.imdb.com/title/tt0079470
+217,哈利·波特与死亡圣器(下),Harry Potter and the Deathly Hallows: Part 2,8.8,551199,https://movie.douban.com/subject/3011235/,https://www.imdb.com/title/tt1201607
+218,金刚狼3：殊死一战,Logan,8.3,366944,https://movie.douban.com/subject/25765735/,https://www.imdb.com/title/tt3315342
+219,极速风流,Rush,8.8,115135,https://movie.douban.com/subject/6803494/,https://www.imdb.com/title/tt1979320
+220,男人的争斗,Du rififi chez les hommes,8.6,2980,https://movie.douban.com/subject/1299885/,https://www.imdb.com/title/tt0048021
+221,圣女贞德蒙难记,La passion de Jeanne d'Arc,8.7,7663,https://movie.douban.com/subject/1293783/,https://www.imdb.com/title/tt0019254
+222,小姐,아가씨,8.2,239126,https://movie.douban.com/subject/25977027/,https://www.imdb.com/title/tt4016934
+223,四百击,Les quatre cents coups,8.8,76246,https://movie.douban.com/subject/1300056/,https://www.imdb.com/title/tt0053198
+224,卢旺达饭店,Hotel Rwanda,8.9,217666,https://movie.douban.com/subject/1291822/,https://www.imdb.com/title/tt0395169
+225,安德烈·卢布廖夫,Андрей Рублёв,9.0,7838,https://movie.douban.com/subject/1298248/,https://www.imdb.com/title/tt0060107
+226,爱情是狗娘,Amores perros,8.2,42887,https://movie.douban.com/subject/1292216/,https://www.imdb.com/title/tt0245712
+227,聚焦,Spotlight,8.8,213257,https://movie.douban.com/subject/25954475/,https://www.imdb.com/title/tt1895587
+228,芭萨提的颜色,Rang De Basanti,8.5,13564,https://movie.douban.com/subject/1889053/,https://www.imdb.com/title/tt0405508
+229,风之谷,風の谷のナウシカ,8.9,285891,https://movie.douban.com/subject/1291585/,https://www.imdb.com/title/tt0087544
+230,洛奇,Rocky,8.7,41291,https://movie.douban.com/subject/1295742/,https://www.imdb.com/title/tt0075148
+231,怒火青春,La haine,8.2,12713,https://movie.douban.com/subject/1306449/,https://www.imdb.com/title/tt0113247
+232,怪兽电力公司,Monsters Inc.,8.7,474114,https://movie.douban.com/subject/1291579/,https://www.imdb.com/title/tt0198781
+233,蝴蝶梦,Rebecca,8.3,60724,https://movie.douban.com/subject/1293824/,https://www.imdb.com/title/tt0032976
+234,瓦塞浦黑帮(上),Gangs of Wasseypur - Part 1,6.7,685,https://movie.douban.com/subject/10605729/,https://www.imdb.com/title/tt1954470
+235,燃烧女子的肖像,Portrait de la jeune fille en feu,8.6,99645,https://movie.douban.com/subject/30257175/,https://www.imdb.com/title/tt8613070
+236,马戏团,The Circus,9.2,12677,https://movie.douban.com/subject/1299628/,https://www.imdb.com/title/tt0018773
+237,一夜风流,It Happened One Night,8.7,37291,https://movie.douban.com/subject/1295684/,https://www.imdb.com/title/tt0025316
+238,爱在日落黄昏时,Before Sunset,8.8,370241,https://movie.douban.com/subject/1291990/,https://www.imdb.com/title/tt0381681
+239,花样年华,花樣年華,8.7,419446,https://movie.douban.com/subject/1291557/,https://www.imdb.com/title/tt0118694
+240,德州巴黎,Paris Texas,8.6,38268,https://movie.douban.com/subject/1302061/,https://www.imdb.com/title/tt0087884
+241,误杀瞒天记,Drishyam,8.5,117252,https://movie.douban.com/subject/26419637/,https://www.imdb.com/title/tt4430212
+242,相助,The Help,8.8,81877,https://movie.douban.com/subject/3792848/,https://www.imdb.com/title/tt1454029
+243,看不见的客人,Contratiempo,8.8,861160,https://movie.douban.com/subject/26580232/,https://www.imdb.com/title/tt4857264
+244,公主新娘,The Princess Bride,7.0,9354,https://movie.douban.com/subject/1297280/,https://www.imdb.com/title/tt0093779
+245,终结者,The Terminator,8.1,161741,https://movie.douban.com/subject/1300656/,https://www.imdb.com/title/tt0088247
+246,阿尔及尔之战,La battaglia di Algeri,8.5,5586,https://movie.douban.com/subject/1419005/,https://www.imdb.com/title/tt0058946
+247,吾土吾民,स्वदेश,7.6,808,https://movie.douban.com/subject/1479526/,https://www.imdb.com/title/tt0367110
+248,蜘蛛巢城,蜘蛛巣城,8.5,17758,https://movie.douban.com/subject/1294827/,https://www.imdb.com/title/tt0050613
+249,加油，印度！,Chak De India,8.0,1071,https://movie.douban.com/subject/2213632/,https://www.imdb.com/title/tt0871510
+250,印度往事,Lagaan: Once Upon a Time in India,7.8,3485,https://movie.douban.com/subject/2254631/,https://www.imdb.com/title/tt0169102
