@@ -1,10 +1,10 @@
 ## Rotting Oranges
 
 This program visualizes the changing process of a leetcode problem [rotting oranges](https://leetcode.com/problems/rotting-oranges/).  
-It uses BFS approach to solve the problem and uses python Turtle library to draw the oranges.
+It uses BFS approach to solve the problem and uses python turtle library 🐢 to draw the oranges🍊.
 
 ### How to play
-![UI preview](https://github.com/YeqingHuang/MyProjects/[branch]/preview.png?raw=true)
+![UI preview](https://github.com/YeqingHuang/MyProjects/tree/master/Rotting%20Oranges/preview.png?raw=true)
 
 To play with it, the keyboard commands are:
 
