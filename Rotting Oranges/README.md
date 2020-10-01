@@ -4,7 +4,7 @@ This program visualizes the changing process of a leetcode problem [rotting oran
 It uses BFS approach to solve the problem and uses python turtle library 🐢 to draw the oranges🍊.
 
 ### How to play
-![UI preview](https://github.com/YeqingHuang/MyProjects/tree/master/Rotting%20Oranges/preview.png?raw=true)
+![UI preview](./preview.png)
 
 To play with it, the keyboard commands are:
 
